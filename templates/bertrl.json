@@ -1,3 +1,0 @@
-{
-    "ALLINONE_PROMPT": "Question: {h_text} {r_text} what ? Is the correct answer {t_text} ? [SEP] Context: {p_text}"
-}
