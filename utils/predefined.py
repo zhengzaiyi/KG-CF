@@ -1,0 +1,1 @@
+LLM_PATH_CLASSIFY_PROMPT = "I want to prove that there is a {r_q} relationship between {e_h} and {e_t}. Please select those unreasonable paths from the following possible proof paths: {paths}.\n Only output the path numbers and strictly follow the output format: \"[ID1], [ID2], ... [IDn]\".\nExample: 1, 10, 5"

@@ -1,0 +1,88 @@
+concept:countryalsoknownas	country also known as
+concept:atdate	at date
+concept:locationlocatedwithinlocation	location located within location
+concept:bodypartcontainsbodypart	body part contains body part
+concept:plantincludeplant	plant include plant
+concept:subpartof	sub part of
+concept:sportfansincountry	sport fans in country
+concept:mutualproxyfor	mutual proxy for
+concept:cityliesonriver	city lies on river
+concept:agentcontrols	agent controls
+concept:organizationalsoknownas	organization also known as
+concept:sportsgameteam	sports game team
+concept:teamplaysagainstteam	team plays against team
+concept:statelocatedingeopoliticallocation	state located in geopolitical location
+concept:proxyfor	proxy for
+concept:worksfor	works for
+concept:organizationhiredperson	organization hired person
+concept:subpartoforganization	sub part of organization
+concept:sportusesstadium	sport uses stadium
+concept:countrylocatedingeopoliticallocation	country located in geopolitical location
+concept:atlocation	at location
+concept:organizationheadquarteredinstateorprovince	organization headquartered in state or province
+concept:citylocatedingeopoliticallocation	city located in geopolitical location
+concept:teamplaysincity	team plays in city
+concept:companyeconomicsector	company economic sector
+concept:organizationheadquarteredincity	organization headquartered in city
+concept:arterycalledartery	artery called artery
+concept:leaguestadiums	league stadiums
+concept:teamplayssport	team plays sport
+concept:agentactsinlocation	agent acts in location
+concept:agentcompeteswithagent	agent competes with agent
+concept:personchargedwithcrime	person charged with crime
+concept:synonymfor	synonym for
+concept:citylocatedincountry	city located in country
+concept:teamplaysinleague	team plays in league
+concept:stateorprovinceisborderedbystateorprovince	state or province is bordered by state or province
+concept:agentcreated	agent created
+concept:citylocatedinstate	city located in state
+concept:stadiumlocatedincity	stadium located in city
+concept:personbornincity	person born in city
+concept:coachesteam	coaches team
+concept:agentcollaborateswithagent	agent collaborates with agent
+concept:organizationdissolvedatdate	organization dissolved at date
+concept:plantgrowinginplant	plant growing in plant
+concept:statelocatedincountry	state located in country
+concept:organizationterminatedperson	organization terminated person
+concept:citycapitalofcountry	city capital of country
+concept:teamhomestadium	team home stadium
+concept:personleadsgeopoliticalorganization	person leads geopolitical organization
+concept:personhascitizenship	person has citizenship
+concept:sportusesequipment	sport uses equipment
+concept:personbelongstoorganization	person belongs to organization
+concept:teamalsoknownas	team also known as
+concept:statehascapital	state has capital
+concept:persongraduatedschool	person graduated school
+concept:agentparticipatedinevent	agent participated in event
+concept:agentbelongstoorganization	agent belongs to organization
+concept:headquarteredin	headquartered in
+concept:organizationacronymhasname	organization acronym has name
+concept:persongraduatedfromuniversity	person graduated from university
+concept:buildinglocatedincity	building located in city
+concept:personborninlocation	person born in location
+concept:countrycurrency	country currency
+concept:competeswith	competes with
+concept:sportschoolincountry	sport school in country
+concept:thinghascolor	thing has color
+concept:sporthassportsteamposition	sport has sports team position
+concept:istallerthan	is taller than
+concept:riveremptiesintoriver	river empties into river
+concept:cityalsoknownas	city also known as
+concept:organizationheadquarteredincountry	organization headquartered in country
+concept:specializationof	specialization of
+concept:attractionofcity	attraction of city
+concept:personleadsorganization	person leads organization
+concept:hasofficeincity	has office in city
+concept:acquired	acquired
+concept:newspaperincity	newspaper in city
+concept:plantrepresentemotion	plant represent emotion
+concept:hasofficeincountry	has office in country
+concept:lakeinstate	lake in state
+concept:hotelincity	hotel in city
+concept:personhasresidenceingeopoliticallocation	person has residence in geopolitical location
+concept:museumincity	museum in city
+concept:languageofcountry	language of country
+concept:athleteplaysforteam	athlete plays for team
+concept:athleteledsportsteam	athlete led sports team
+concept:personhasjobposition	person has job position
+concept:athletehomestadium	athlete home stadium

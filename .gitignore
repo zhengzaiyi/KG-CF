@@ -1,0 +1,7 @@
+*__pycache__/
+.vscode/
+log.txt
+data/
+data/UMLS/
+model/
+

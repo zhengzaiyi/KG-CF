@@ -1,0 +1,2564 @@
+concept:country:republic	country republic
+concept:country:vietnam	country vietnam
+concept:geopoliticalorganization:web_site	geopolitical organization web site
+concept:date:n1996	date n 1996
+concept:country:latvia	country latvia
+concept:country:countries	country countries
+concept:bodypart:nerves001	body part nerves 001
+concept:nerve:nervous_system	nerve nervous system
+concept:plant:mature_oak	plant mature oak
+concept:plant:trees	plant trees
+concept:lake:new	lake new
+concept:retailstore:contacts	retail store contacts
+concept:transportation:stations	transportation stations
+concept:weatherphenomenon:water	weather phenomenon water
+concept:sport:football	sport football
+concept:country:britain	country britain
+concept:bodypart:system001	body part system 001
+concept:artery:circulation	artery circulation
+concept:book:new	book new
+concept:room:schools	room schools
+concept:city:washington_d_c	city washington d c
+concept:river:columbia	river columbia
+concept:terroristorganization:state	terrorist organization state
+concept:website:information	website information
+concept:city:home	city home
+concept:governmentorganization:office	government organization office
+concept:sportsgame:series	sports game series
+concept:sportsteam:anaheim_angels	sports team anaheim angels
+concept:bodypart:human_body001	body part human body 001
+concept:sportsteam:bengals	sports team bengals
+concept:sportsteam:white_sox	sports team white sox
+concept:city:sarasota	city sarasota
+concept:city:florida	city florida
+concept:stateorprovince:states	state or province states
+concept:city:georgetown	city georgetown
+concept:bodypart:skeletal	body part skeletal
+concept:sportsteam:yanks	sports team yanks
+concept:sportsteam:red_sox	sports team red sox
+concept:city:folsom	city folsom
+concept:stateorprovince:california	state or province california
+concept:country:greece	country greece
+concept:island:author	island author
+concept:date:n1999	date n 1999
+concept:city:vancouver	city vancouver
+concept:sportsteam:toronto_blue_jays	sports team toronto blue jays
+concept:county:tyler	county tyler
+concept:city:texas	city texas
+concept:personmexico:ryan_whitney	person mexico ryan whitney
+concept:stateorprovince:afternoon	state or province afternoon
+concept:visualizablescene:brussels	visual iz able scene brussels
+concept:dateliteral:n2007	date literal n 2007
+concept:company:west_virginia	company west virginia
+concept:sportsteam:ncaa_mens_midwest_regionals	sports team ncaa mens midwest regional s
+concept:sport:basketball	sport basketball
+concept:stadiumoreventvenue:new_orleans_arena	stadium or event venue new orleans arena
+concept:sportsteam:longhorns	sports team longhorns
+concept:personmexico:mack_brown	person mexico mack brown
+concept:country:azerbaijan	country azerbaijan
+concept:shoppingmall:palm_beach_gardens	shopping mall palm beach gardens
+concept:sportsteam:montreal_canadiens	sports team montreal canadiens
+concept:sportsteam:bruins	sports team bruins
+concept:sportsteam:byu	sports team byu
+concept:sportsteam:ncaa_youth_kids	sports team ncaa youth kids
+concept:museum:west_palm_beach	museum west palm beach
+concept:aquarium:uk_	aquarium uk
+concept:city:lancaster	city lancaster
+concept:stateorprovince:ohio	state or province ohio
+concept:country:sudan	country sudan
+concept:sportsteam:spurs	sports team spurs
+concept:sportsteam:heat	sports team heat
+concept:bodypart:endocrine_glands	body part endocrine glands
+concept:stateorprovince:illinois	state or province illinois
+concept:city:joliet	city joliet
+concept:visualizablescene:fort_myers	visual iz able scene fort myers
+concept:coach:new	coach new
+concept:company:focus	company focus
+concept:sportsteam:hokies	sports team h oki es
+concept:coach:frank_beamer	coach frank be amer
+concept:sportsteam:bears_29_17	sports team bears 29 17
+concept:sportsteam:hawks	sports team hawks
+concept:website:campaign	website campaign
+concept:bodypart:kidneys	body part kidneys
+concept:artery:blood_vessels	artery blood vessels
+concept:city:davis	city davis
+concept:sportsteam:florida_marlins	sports team florida marlins
+concept:stateorprovince:new_york	state or province new york
+concept:plant:marula	plant maru la
+concept:male:dave_wannstedt	male dave wan nsted t
+concept:city:pittsburgh	city pittsburgh
+concept:blog:iowa	blog iowa
+concept:room:ownership	room ownership
+concept:country:bulgaria	country bulgaria
+concept:sportsteam:steelers	sports team steelers
+concept:sportsteam:florida_international	sports team florida international
+concept:river:dinner	river dinner
+concept:dateliteral:n2005	date literal n 2005
+concept:stateorprovince:colorado	state or province colorado
+concept:city:ottawa	city ottawa
+concept:geopoliticallocation:national	geopolitical location national
+concept:sportsteam:new_york_giants	sports team new york giants
+concept:sportsteam:falcons	sports team falcons
+concept:city:hobart	city hobart
+concept:bodypart:brain_tissue	body part brain tissue
+concept:programminglanguage:state	programming language state
+concept:date:n2003	date n 2003
+concept:transportation:voters	transportation voters
+concept:sportsteam:florida_gators	sports team florida gators
+concept:sportsteam:bulldogs	sports team bulldogs
+concept:plant:white_oaks	plant white oaks
+concept:plant:shrubs	plant shrubs
+concept:plant:lavender	plant lavender
+concept:stadiumoreventvenue:td_banknorth_garden	stadium or event venue td bank north garden
+concept:sportsteam:chowan_braves	sports team chowan braves
+concept:sportsteam:phillies	sports team phillies
+concept:city:rosemead	city rose mead
+concept:coach:clemson	coach clemson
+concept:coach:dabo_swinney	coach d abo s win ney
+concept:bodypart:kidney	body part kidney
+concept:braintissue:body	brain tissue body
+concept:braintissue:response	brain tissue response
+concept:artery:brain	artery brain
+concept:braintissue:parts	brain tissue parts
+concept:transportation:corridor	transportation corridor
+concept:skiarea:combination	ski area combination
+concept:bodypart:appearance	body part appearance
+concept:invertebrate:coastal_areas	invertebrate coastal areas
+concept:artery:cord	artery cord
+concept:artery:canal	artery canal
+concept:country:mexico	country mexico
+concept:sportsteam:ucla	sports team ucla
+concept:city:westwood	city westwood
+concept:coach:tyrone_willingham	coach tyrone will ingham
+concept:stateorprovince:products	state or province products
+concept:plant:mountain_ash	plant mountain ash
+concept:city:rome	city rome
+concept:radiostation:nevada	radio station nevada
+concept:economicsector:insurance_coverage	economic sector insurance coverage
+concept:country:__america	country america
+concept:country:australasia	country australasia
+concept:sportsteam:pistons	sports team pistons
+concept:sportsteam:utah_jazz	sports team utah jazz
+concept:plant:black_cherry	plant black cherry
+concept:city:area	city area
+concept:sportsgame:centuries	sports game centuries
+concept:dateliteral:n2006	date literal n 2006
+concept:sportsteam:tampa	sports team tampa
+concept:country:costa_rica	country costa rica
+concept:city:evanston	city evanston
+concept:stateorprovince:indiana	state or province indiana
+concept:personmexico:ike_davis	person mexico ike davis
+concept:country:indonesia	country indonesia
+concept:city:san_bernardino	city san bernardino
+concept:country:japan	country japan
+concept:artery:fluid	artery fluid
+concept:braintissue:spinal_cord	brain tissue spinal cord
+concept:plant:saguaro	plant saguaro
+concept:city:children	city children
+concept:date:n2001	date n 2001
+concept:university:seton_hall	university seton hall
+concept:website:match	website match
+concept:dateliteral:n2002	date literal n 2002
+concept:programminglanguage:the_new	programming language the new
+concept:city:boston	city boston
+concept:city:greenville	city greenville
+concept:stateorprovince:south_carolina	state or province south carolina
+concept:sportsteam:cleveland_indians	sports team cleveland indians
+concept:city:number	city number
+concept:city:berlin	city berlin
+concept:plant:chestnut	plant chestnut
+concept:bodypart:spinal_column	body part spinal column
+concept:city:capital	city capital
+concept:sportsteam:rockies	sports team rockies
+concept:country:germany	country germany
+concept:landscapefeatures:housing	landscape features housing
+concept:city:members	city members
+concept:dateliteral:n2008	date literal n 2008
+concept:braintissue:neuromuscular_system	brain tissue neuromuscular system
+concept:artery:vessels	artery vessels
+concept:city:portsmouth	city portsmouth
+concept:stateorprovince:new_hampshire	state or province new hampshire
+concept:stateorprovince:delaware	state or province delaware
+concept:county:seattle	county seattle
+concept:company:new_york	company new york
+concept:sportsteam:state_university	sports team state university
+concept:plant:ragweed	plant ragweed
+concept:university:ohio_state	university ohio state
+concept:personmexico:woody_hayes	person mexico woody hayes
+concept:beverage:new	beverage new
+concept:building:season	building season
+concept:sportsleague:ncaa	sports league ncaa
+concept:stadiumoreventvenue:kenan_memorial_stadium	stadium or event venue kenan memorial stadium
+concept:year:n1997	year n 1997
+concept:sportsteam:florida_state	sports team florida state
+concept:plant:wild_cherry	plant wild cherry
+concept:transportation:schedule	transportation schedule
+concept:sportsteam:tampa_bay_devil_rays	sports team tampa bay devil rays
+concept:city:federal_way	city federal way
+concept:island:operations	island operations
+concept:dateliteral:n1990	date literal n 1990
+concept:bodypart:spinal_fluid	body part spinal fluid
+concept:blog:epicenter	blog epicenter
+concept:country:uganda	country uganda
+concept:artery:sinuses	artery sinuses
+concept:sportsteam:houston_astros	sports team houston astros
+concept:sportsteam:st__johns_red_storm	sports team st johns red storm
+concept:country:rwanda	country rwanda
+concept:stateorprovince:georgia	state or province georgia
+concept:city:roswell	city roswell
+concept:everypromotedthing:westchester_division	every promoted thing westchester division
+concept:bodypart:hair	body part hair
+concept:comedian:oklahoma	comedian oklahoma
+concept:sportsteam:magic	sports team magic
+concept:person:anderson	person anderson
+concept:crimeorcharge:murder	crime or charge murder
+concept:bodypart:cells001	body part cells 001
+concept:nerve:human_brain	nerve human brain
+concept:room:offices	room offices
+concept:coach:texas_longhorns	coach texas longhorns
+concept:city:rolla	city roll a
+concept:company:missouri	company missouri
+concept:island:head	island head
+concept:artery:coronary_arteries	artery coronary arteries
+concept:sportsteam:lsu	sports team lsu
+concept:sportsteam:vols	sports team vols
+concept:sportsteam:mavericks	sports team mavericks
+concept:stateorprovince:morning	state or province morning
+concept:university:state_university	university state university
+concept:university:colorado_state	university colorado state
+concept:plant:redwoods	plant redwoods
+concept:plant:oak_trees	plant oak trees
+concept:landscapefeatures:waters	landscape features waters
+concept:city:lafayette	city lafayette
+concept:sportsteam:titans	sports team titans
+concept:sportsteam:saints	sports team saints
+concept:coach:cincinnati	coach cincinnati
+concept:city:prague	city prague
+concept:plant:chestnuts	plant chestnuts
+concept:country:ukraine	country ukraine
+concept:plant:deodar	plant deodar
+concept:sportsteam:esu_hornets	sports team es u hornets
+concept:sportsteam:rockets	sports team rockets
+concept:city:buenos_aires	city buenos aires
+concept:country:argentina	country argentina
+concept:country:korea	country korea
+concept:country:france_france	country france france
+concept:river:counties	river counties
+concept:airport:north_america	airport north america
+concept:plant:coconut	plant coconut
+concept:artery:skin	artery skin
+concept:landscapefeatures:firm	landscape features firm
+concept:date:n2000	date n 2000
+concept:plant:plants	plant plants
+concept:plant:bougainvillea	plant bougainvillea
+concept:visualizablescene:washington	visual iz able scene washington
+concept:date:n2004	date n 2004
+concept:sportsteam:cavaliers	sports team cavaliers
+concept:sportsleague:nba	sports league nba
+concept:website:bureau	website bureau
+concept:country:poland	country poland
+concept:country:east_european_countries	country east european countries
+concept:plant:redwood	plant redwood
+concept:planet:climate	planet climate
+concept:hobby:trips	hobby trips
+concept:transportation:airports	transportation airports
+concept:agent:start	agent start
+concept:city:deerfield_beach	city deerfield beach
+concept:city:hawaii	city hawaii
+concept:stadiumoreventvenue:folsom_field	stadium or event venue folsom field
+concept:country:tajikistan	country tajikistan
+concept:country:panama	country panama
+concept:stateorprovince:ontario	state or province ontario
+concept:geopoliticalorganization:us_state	geopolitical organization us state
+concept:boardgame:carson_city	boardgame carson city
+concept:sportsteam:maryland	sports team maryland
+concept:sportsteam:boston_college	sports team boston college
+concept:city:link	city link
+concept:city:click	city click
+concept:transportation:two	transportation two
+concept:vein:lungs	vein lungs
+concept:coach:michigan_wolverines	coach michigan wolverines
+concept:stateorprovince:visa	state or province visa
+concept:city:princeton	city princeton
+concept:governmentorganization:government	government organization government
+concept:country:sierra_leone	country sierra leone
+concept:country:qatar	country qatar
+concept:company:canada	company canada
+concept:city:vallejo	city vallejo
+concept:artery:arteries	artery arteries
+concept:sportsteam:orioles	sports team orioles
+concept:plant:cherry_blossom	plant cherry blossom
+concept:plant:cactuses	plant cactuses
+concept:stateorprovince:kentucky	state or province kentucky
+concept:building:years	building years
+concept:lake:pacific_ocean	lake pacific ocean
+concept:coach:minnesota_golden_gophers	coach minnesota golden gophers
+concept:university:utah_state	university utah state
+concept:city:manila	city manila
+concept:country:philippines	country philippines
+concept:island:staff	island staff
+concept:plant:red_pine	plant red pine
+concept:politicsblog:more_times	politics blog more times
+concept:landscapefeatures:file	landscape features file
+concept:website:visit	website visit
+concept:date:n1993	date n 1993
+concept:plant:chokecherry	plant choke cherry
+concept:sportsteam:pittsburgh_pirates	sports team pittsburgh pirates
+concept:city:san_pablo	city san pablo
+concept:visualizablething:parishes	visual iz able thing parishes
+concept:stadiumoreventvenue:paradise	stadium or event venue paradise
+concept:bodypart:abdomen	body part abdomen
+concept:artery:diaphragm	artery diaphragm
+concept:sportsteam:rangers	sports team rangers
+concept:sportsteam:washington_senators	sports team washington senators
+concept:city:fullerton	city fullerton
+concept:stateorprovince:idaho	state or province idaho
+concept:stateorprovince:oregon	state or province oregon
+concept:city:status	city status
+concept:stadiumoreventvenue:conseco_fieldhouse	stadium or event venue con seco fieldhouse
+concept:city:indianapolis	city indianapolis
+concept:city:newport_beach	city newport beach
+concept:stateorprovince:czestochowa	state or province c ze stochowa
+concept:coach:bobby_petrino	coach bobby petri no
+concept:stateorprovince:arkansas	state or province arkansas
+concept:city:web	city web
+concept:month:july	month july
+concept:country:ireland	country ireland
+concept:year:n1994	year n 1994
+concept:city:columbia	city columbia
+concept:stateorprovince:tennessee	state or province tennessee
+concept:radiostation:new_jersey	radio station new jersey
+concept:bodypart:immune_system	body part immune system
+concept:stateorprovince:canadian	state or province canadian
+concept:city:toronto	city toronto
+concept:country:turkey	country turkey
+concept:plant:plums	plant plums
+concept:city:band	city band
+concept:coach:billy_donovan	coach billy donovan
+concept:country:eu_countries	country eu countries
+concept:stateorprovince:south_australia	state or province south australia
+concept:city:garden_grove	city garden grove
+concept:sportsteam:sixers	sports team six ers
+concept:city:sylmar	city syl mar
+concept:country:papua_new_guinea	country papua new guinea
+concept:country:mali	country mali
+concept:sportsteam:nats	sports team nats
+concept:country:us	country us
+concept:country:west_indies	country west indies
+concept:geometricshape:colleges	geometric shape colleges
+concept:building:flight	building flight
+concept:plant:fir	plant fir
+concept:plant:conifer	plant conifer
+concept:sportsteam:chicago_white_sox	sports team chicago white sox
+concept:city:arcadia	city arcadia
+concept:bodypart:system002	body part system 002
+concept:braintissue:sense_organs	brain tissue sense organs
+concept:plant:willows	plant willows
+concept:city:titusville	city titusville
+concept:county:conditions	county conditions
+concept:city:dallas	city dallas
+concept:country:spain	country spain
+concept:stadiumoreventvenue:cajun_field	stadium or event venue cajun field
+concept:artery:organ_system	artery organ system
+concept:country:czechoslovakia	country czechoslovakia
+concept:plant:pears	plant pears
+concept:website:search	website search
+concept:country:tanzania	country tanzania
+concept:muscle:heart	muscle heart
+concept:artery:pulmonary_arteries	artery pulmonary arteries
+concept:island:senegal	island senegal
+concept:braintissue:cerebrospinal_fluid	brain tissue cerebrospinal fluid
+concept:person:butler001	person butler 001
+concept:city:york	city york
+concept:city:sumter	city sumter
+concept:country:scandinavia	country scandinavia
+concept:stateorprovince:pennsylvania	state or province pennsylvania
+concept:city:klamath_falls	city klamath falls
+concept:country:party	country party
+concept:athlete:john_brady	athlete john brady
+concept:stateorprovince:texas	state or province texas
+concept:jobposition:dean	job position dean
+concept:newspaper:business_journal	newspaper business journal
+concept:sportsgame:extra_days	sports game extra days
+concept:room:set	room set
+concept:website:tour	website tour
+concept:website:light	website light
+concept:country:bahrain	country bahrain
+concept:company:north_carolina	company north carolina
+concept:room:level	room level
+concept:sportsteam:twins	sports team twins
+concept:musicartist:season	music artist season
+concept:coach:mike_tomlin	coach mike tomlin
+concept:city:edmonds	city edmonds
+concept:country:bermuda	country bermuda
+concept:country:liberia	country liberia
+concept:city:freemont	city free mont
+concept:sportsteam:alabama_crimson_tide	sports team alabama crimson tide
+concept:personmexico:ncaa	person mexico ncaa
+concept:visualizablething:wellington	visual iz able thing wellington
+concept:stadiumoreventvenue:sanford_stadium	stadium or event venue sanford stadium
+concept:county:bellingham	county bellingham
+concept:sportsteam:last_time_the_phillies	sports team last time the phillies
+concept:website:experience	website experience
+concept:month:april	month april
+concept:city:lead	city lead
+concept:hotel:metropolis	hotel metropolis
+concept:plant:wildflowers	plant wildflowers
+concept:vegetable:grass	vegetable grass
+concept:male:bobby_bowden	male bobby bowden
+concept:sportsteam:reds	sports team reds
+concept:website:move	website move
+concept:blog:film	blog film
+concept:stateorprovince:andhra	state or province andhra
+concept:country:republic_of_india	country republic of india
+concept:politicaloffice:office	political office office
+concept:coach:kansas_jayhawks	coach kansas jayhawks
+concept:artery:tissues	artery tissues
+concept:country:united_republic_of_tanzania	country united republic of tanzania
+concept:geopoliticallocation:authorities	geopolitical location authorities
+concept:room:house	room house
+concept:blog:goal	blog goal
+concept:skyscraper:international_city	skyscraper international city
+concept:county:student	county student
+concept:braintissue:peripheral_nervous_system	brain tissue peripheral nervous system
+concept:plant:hickory	plant hickory
+concept:planet:seven	planet seven
+concept:stadiumoreventvenue:liberty_bowl_memorial_stadium	stadium or event venue liberty bowl memorial stadium
+concept:city:oakland	city oakland
+concept:planet:night	planet night
+concept:river:arts	river arts
+concept:plant:camellias	plant camellias
+concept:geopoliticallocation:southern	geopolitical location southern
+concept:plant:elms	plant elms
+concept:country:oman	country oman
+concept:city:fairchild_air_force_base	city fairchild air force base
+concept:country:cambodia	country cambodia
+concept:continent:asia	continent asia
+concept:country:cuba	country cuba
+concept:plant:lilacs	plant lilacs
+concept:country:nepal	country nepal
+concept:landscapefeatures:no__1	landscape features no 1
+concept:sportsgame:short_years	sports game short years
+concept:plant:tall_palms	plant tall palms
+concept:country:nigeria	country nigeria
+concept:airport:europe	airport europe
+concept:sportsteam:texas_a_m	sports team texas a m
+concept:coach:mike_sherman	coach mike sherman
+concept:artery:cells	artery cells
+concept:fruit:citrus	fruit citrus
+concept:coach:dan_hawkins	coach dan hawkins
+concept:stateorprovince:eu	state or province eu
+concept:university:national	university national
+concept:coach:neuheisel	coach neu he is el
+concept:city:example	city example
+concept:country:czech_republic	country czech republic
+concept:planet:universe	planet universe
+concept:weapon:weeks	weapon weeks
+concept:plant:plum	plant plum
+concept:city:havana	city havana
+concept:room:executive	room executive
+concept:sportsteam:ohio_state_university	sports team ohio state university
+concept:room:properties	room properties
+concept:coach:jagodzinski	coach j ago dz in ski
+concept:bone:joints	bone joints
+concept:county:miami	county miami
+concept:visualizablething:use	visual iz able thing use
+concept:city:mexico_city	city mexico city
+concept:country:laos	country laos
+concept:visualizablething:naples	visual iz able thing naples
+concept:website:shop	website shop
+concept:year:n1995	year n 1995
+concept:sportsteam:los_angeles_dodgers	sports team los angeles dodgers
+concept:museum:original_home	museum original home
+concept:city:new_delhi	city new delhi
+concept:country:cyprus	country cyprus
+concept:city:westminster	city westminster
+concept:street:role	street role
+concept:city:design	city design
+concept:plant:red_spruce	plant red spruce
+concept:radiostation:laredo	radio station laredo
+concept:person:gonzalez	person gonzalez
+concept:artery:blood_flow	artery blood flow
+concept:geopoliticalorganization:northern_california	geopolitical organization northern california
+concept:building:houses	building houses
+concept:plant:evergreen	plant evergreen
+concept:plant:seedlings	plant seedlings
+concept:stadiumoreventvenue:american_airlines_arena	stadium or event venue american airlines arena
+concept:country:russia	country russia
+concept:website:jobs	website jobs
+concept:person:thomas_m__menino	person thomas m menino
+concept:city:singapore	city singapore
+concept:city:santa_clarita	city santa clarita
+concept:stadiumoreventvenue:staples_center	stadium or event venue staples center
+concept:county:los_angeles_county	county los angeles county
+concept:nerve:autonomic_nervous_system	nerve autonomic nervous system
+concept:artery:capillaries	artery capillaries
+concept:stadiumoreventvenue:aggie_memorial_stadium	stadium or event venue ag gie memorial stadium
+concept:person:duke	person duke
+concept:country:republic_of_austria	country republic of austria
+concept:geopoliticallocation:reports	geopolitical location reports
+concept:city:bridgeport	city bridgeport
+concept:stateorprovince:west_virginia	state or province west virginia
+concept:personus:joe_dimaggio	person us joe dimaggio
+concept:year:n1986	year n 1986
+concept:plant:rowan	plant rowan
+concept:visualizablething:queensland	visual iz able thing queensland
+concept:sportsteam:lee_flames	sports team lee flames
+concept:plant:woodland	plant woodland
+concept:country:third_world_countries	country third world countries
+concept:geopoliticallocation:east_asia	geopolitical location east asia
+concept:monument:parade	monument parade
+concept:stadiumoreventvenue:schoellkopf_field	stadium or event venue s cho ell kop f field
+concept:muscle:function	muscle function
+concept:stadiumoreventvenue:target_center	stadium or event venue target center
+concept:artery:smooth_muscle	artery smooth muscle
+concept:city:colton	city colt on
+concept:stateorprovince:virginia	state or province virginia
+concept:city:lynchburg	city lynchburg
+concept:plant:white_pine	plant white pine
+concept:bone:auditory_system	bone auditory system
+concept:room:east	room east
+concept:plant:evergreens	plant evergreens
+concept:city:kennesaw	city kennesaw
+concept:city:contract	city contract
+concept:bodypart:protective_membranes	body part protective membranes
+concept:sportsteam:mary_hardin_baylor_crusaders	sports team mary hard in baylor crusaders
+concept:city:waco	city waco
+concept:city:new_york	city new york
+concept:scientist:no_	scientist no
+concept:landscapefeatures:weekend	landscape features weekend
+concept:city:clinton	city clinton
+concept:stateorprovince:maryland	state or province maryland
+concept:nongovorganization:u_s_	non gov organization u s
+concept:sportsteam:washington_state	sports team washington state
+concept:website:stranger	website stranger
+concept:sportsequipment:scoreboard	sports equipment scoreboard
+concept:sportsteam:seattle_mariners	sports team seattle mariners
+concept:blog:wichita_falls	blog wichita falls
+concept:plant:green_ash	plant green ash
+concept:country:left_parties	country left parties
+concept:artery:intestines	artery intestines
+concept:country:kosovo	country kosovo
+concept:county:york_city	county york city
+concept:date:n1942	date n 1942
+concept:sportsteam:stanford	sports team stanford
+concept:website:issue	website issue
+concept:sportsteam:marlins	sports team marlins
+concept:airport:south_america	airport south america
+concept:country:republic_of_guatemala	country republic of guatemala
+concept:person:marion_barry	person marion barry
+concept:country:republic_of_nicaragua	country republic of nicaragua
+concept:plant:pine	plant pine
+concept:visualizablething:tri_state_area	visual iz able thing tri state area
+concept:website:advantage	website advantage
+concept:plant:sycamores	plant sycamores
+concept:artery:eye	artery eye
+concept:plant:tulip_poplar	plant tulip poplar
+concept:retailstore:quality	retail store quality
+concept:sportsteam:michigan_state	sports team michigan state
+concept:city:caledonia	city caledonia
+concept:visualizablescene:willits	visual iz able scene will its
+concept:politicalparty:democrats	political party democrats
+concept:plant:holly	plant holly
+concept:country:malawi	country malawi
+concept:county:olympia	county olympia
+concept:sportsteam:flyers_playoff_tickets	sports team flyers playoff tickets
+concept:sportsteam:minnesota_twins	sports team minnesota twins
+concept:landscapefeatures:beaches	landscape features beaches
+concept:country:thailand	country thailand
+concept:country:participation	country participation
+concept:coach:eric_mangini	coach eric mang in i
+concept:city:mcallen	city mcallen
+concept:coach:pat_dye	coach pat dye
+concept:university:auburn	university auburn
+concept:plant:beautiful_palm	plant beautiful palm
+concept:stateorprovince:florida	state or province florida
+concept:city:tallahassee	city tallahassee
+concept:river:state	river state
+concept:fruit:apples	fruit apples
+concept:website:knowledge	website knowledge
+concept:website:market	website market
+concept:sportsteam:kansas_city_royals	sports team kansas city royals
+concept:city:help	city help
+concept:city:mount_pleasant	city mount pleasant
+concept:governmentorganization:iowa	government organization iowa
+concept:city:salem	city salem
+concept:writer:brown	writer brown
+concept:university:law_school	university law school
+concept:geopoliticallocation:holland	geopolitical location holland
+concept:plant:silver_maples	plant silver maples
+concept:city:chula_vista	city chula vista
+concept:coach:tom_o_brien	coach tom o brien
+concept:month:february	month february
+concept:month:september	month september
+concept:plant:kapok	plant kapok
+concept:city:farmington	city farmington
+concept:stateorprovince:michigan	state or province michigan
+concept:planet:answer	planet answer
+concept:visualizablething:residence	visual iz able thing residence
+concept:city:tehran	city tehran
+concept:city:hampton	city hampton
+concept:city:cumming	city cumming
+concept:geopoliticallocation:western_europe	geopolitical location western europe
+concept:bodypart:blood	body part blood
+concept:plant:fig	plant fig
+concept:skiarea:big_draw	ski area big draw
+concept:bone:movement	bone movement
+concept:city:puyallup	city puy all up
+concept:bone:tendons	bone tendons
+concept:plant:almonds	plant almonds
+concept:plant:lemon	plant lemon
+concept:university:case_western_reserve	university case western reserve
+concept:coach:urban_meyer	coach urban meyer
+concept:coach:tommy_tuberville	coach tommy tuber ville
+concept:coach:dennis_felton	coach dennis felton
+concept:city:yreka	city yr eka
+concept:city:new_brunswick	city new brunswick
+concept:stateorprovince:newjersey	state or province new jersey
+concept:sportsgame:more_weeks	sports game more weeks
+concept:county:san_francisco	county san francisco
+concept:sportsteam:st___louis_cardinals	sports team st louis cardinals
+concept:mountain:columbia	mountain columbia
+concept:coach:texas_tech	coach texas tech
+concept:room:mission	room mission
+concept:geopoliticallocation:southwest001	geopolitical location southwest 001
+concept:geopoliticallocation:central_europe	geopolitical location central europe
+concept:university:nebraska	university nebraska
+concept:country:rok	country rok
+concept:country:afghanistan	country afghanistan
+concept:geopoliticalorganization:eastern	geopolitical organization eastern
+concept:newspaper:the_national	newspaper the national
+concept:city:sweden	city sweden
+concept:island:mother	island mother
+concept:braintissue:central_nervous_system	brain tissue central nervous system
+concept:country:arabia_saudita	country arabia saud it a
+concept:city:moline	city moline
+concept:city:meriden	city meriden
+concept:stateorprovince:connecticut	state or province connecticut
+concept:island:venezuela	island venezuela
+concept:plant:spruces	plant spruces
+concept:stadiumoreventvenue:notre_dame_stadium	stadium or event venue notre dame stadium
+concept:governmentorganization:european_union	government organization european union
+concept:stadiumoreventvenue:legion_field	stadium or event venue legion field
+concept:braintissue:brains	brain tissue brains
+concept:city:catholic	city catholic
+concept:city:vista	city vista
+concept:building:oklahoma_state	building oklahoma state
+concept:sportsequipment:basketball_equipment	sports equipment basketball equipment
+concept:governmentorganization:workers	government organization workers
+concept:muscle:fatigue	muscle fatigue
+concept:country:panama_city	country panama city
+concept:nerve:retina	nerve retina
+concept:stadiumoreventvenue:verizon_center	stadium or event venue verizon center
+concept:geopoliticallocation:u_s__state	geopolitical location u s state
+concept:stateorprovince:alabama	state or province alabama
+concept:stadiumoreventvenue:arco_arena	stadium or event venue arco arena
+concept:sportsteam:tar_heels	sports team tar heels
+concept:plant:poplars	plant poplars
+concept:landscapefeatures:gulf	landscape features gulf
+concept:city:vail	city vail
+concept:celebrity:yale_bulldogs	celebrity yale bulldogs
+concept:bodypart:musculo_skeletal_system	body part mus cul o skeletal system
+concept:island:easter	island easter
+concept:geopoliticallocation:consortium	geopolitical location consortium
+concept:stadiumoreventvenue:byrd_stadium	stadium or event venue byrd stadium
+concept:year:n1992	year n 1992
+concept:city:chico	city chico
+concept:zoo:moment	zoo moment
+concept:plant:ash	plant ash
+concept:governmentorganization:united_nations	government organization united nations
+concept:perceptionaction:des_moines	perception action des moines
+concept:hotel:union	hotel union
+concept:city:lawrenceville	city lawrenceville
+concept:plant:switchgrass	plant switchgrass
+concept:building:interest	building interest
+concept:city:loveland	city love land
+concept:bodypart:spinal_chord	body part spinal chord
+concept:celebrity:venice	celebrity venice
+concept:sportsleague:post	sports league post
+concept:stadiumoreventvenue:harvard_stadium	stadium or event venue harvard stadium
+concept:city:orient	city orient
+concept:shoppingmall:central_park	shopping mall central park
+concept:city:clearwater	city clearwater
+concept:city:nature	city nature
+concept:sportsteam:northwestern	sports team northwestern
+concept:country:iraq	country iraq
+concept:musician:agencies	musician agencies
+concept:bodypart:tissue001	body part tissue 001
+concept:bodypart:legs	body part legs
+concept:stateorprovince:northern_state	state or province northern state
+concept:website:developer	website developer
+concept:country:eu_member_states	country eu member states
+concept:sportsteam:nc_state	sports team nc state
+concept:coach:kay_yow	coach kay yo w
+concept:city:resources	city resources
+concept:city:campbell	city campbell
+concept:country:belarus	country belarus
+concept:stateorprovince:opole	state or province opole
+concept:island:investment	island investment
+concept:stateorprovince:puerto_rico	state or province puerto rico
+concept:geopoliticallocation:south_wales	geopolitical location south wales
+concept:celebrity:harvard_crimson	celebrity harvard crimson
+concept:city:articles	city articles
+concept:plant:ponderosa_pines	plant ponder osa pines
+concept:stateorprovince:nebraska	state or province nebraska
+concept:bodypart:organ001	body part organ 001
+concept:plant:yews	plant yews
+concept:geopoliticallocation:destinations	geopolitical location destinations
+concept:radiostation:tuscaloosa	radio station tuscaloosa
+concept:university:alabama	university alabama
+concept:country:guyana	country guyana
+concept:company:press	company press
+concept:bank:henderson	bank henderson
+concept:skiarea:kentucky	ski area kentucky
+concept:country:republic_of_paraguay	country republic of paraguay
+concept:coach:harbaugh	coach harbaugh
+concept:plant:catalpa	plant catalpa
+concept:academicfield:lubbock	academic field lubbock
+concept:website:platform	website platform
+concept:musicartist:delaware	music artist delaware
+concept:plant:palm	plant palm
+concept:traditionalgame:vegas	traditional game vegas
+concept:stateorprovince:pensacola	state or province pensacola
+concept:braintissue:responses	brain tissue responses
+concept:stateorprovince:mississippi_state	state or province mississippi state
+concept:bridge:premier_destination	bridge premier destination
+concept:visualizablescene:white_plains	visual iz able scene white plains
+concept:geopoliticallocation:world	geopolitical location world
+concept:city:woodstock	city woodstock
+concept:geopoliticallocation:burma	geopolitical location burma
+concept:coach:manny_diaz	coach manny diaz
+concept:website:breeze	website breeze
+concept:politicsblog:guardian	politics blog guardian
+concept:economicsector:insurance	economic sector insurance
+concept:coach:tedford	coach ted ford
+concept:museum:national_capital	museum national capital
+concept:country:hungary	country hungary
+concept:city:boulder	city boulder
+concept:plant:acacias	plant acacias
+concept:city:seoul	city seoul
+concept:coach:steve_spurrier	coach steve spur rie r
+concept:sportsteam:western_kentucky_hilltoppers	sports team western kentucky hill toppers
+concept:city:daytona_beach	city daytona beach
+concept:plant:crepe_myrtle	plant crepe myrtle
+concept:stadiumoreventvenue:bright_house_networks_stadium	stadium or event venue bright house networks stadium
+concept:artery:subclavian	artery sub clav ian
+concept:city:new_orleans	city new orleans
+concept:city:warner_robins	city warner robins
+concept:country:burundi	country burundi
+concept:coach:mark_richt	coach mark rich t
+concept:country:origin	country origin
+concept:landscapefeatures:sites	landscape features sites
+concept:city:san_luis_obispo	city san luis obispo
+concept:farm:farmers	farm farmers
+concept:city:deal	city deal
+concept:governmentorganization:services	government organization services
+concept:visualartist:meyer	visual artist meyer
+concept:city:poway	city poway
+concept:governmentorganization:employment	government organization employment
+concept:plant:sycamore	plant sycamore
+concept:city:division	city division
+concept:city:roseville	city roseville
+concept:geopoliticallocation:dubai	geopolitical location dubai
+concept:lake:coastal_city	lake coastal city
+concept:company:los_angeles	company los angeles
+concept:politicaloffice:new	political office new
+concept:bodypart:tract001	body part tract 001
+concept:city:uk	city uk
+concept:year:n1956	year n 1956
+concept:coach:kentucky	coach kentucky
+concept:chemical:paducah	chemical paducah
+concept:person:ty_willingham	person ty will ingham
+concept:sportsteam:trail_blazers	sports team trail blazers
+concept:county:williamsburg	county williamsburg
+concept:country:norway	country norway
+concept:sportsteam:raptors	sports team raptors
+concept:sportsteam:boston_celtics	sports team boston celtics
+concept:website:price	website price
+concept:food:foliage	food foliage
+concept:plant:oak	plant oak
+concept:sportsequipment:ball	sports equipment ball
+concept:city:dublin_dublin	city dublin dublin
+concept:country:haiti	country haiti
+concept:museum:present	museum present
+concept:radiostation:san_angelo	radio station san angelo
+concept:country:malaysia	country malaysia
+concept:bodypart:major_organs	body part major organs
+concept:coach:ron_turner	coach ron turner
+concept:bodypart:cell	body part cell
+concept:coach:tommy_bowden	coach tommy bowden
+concept:stateorprovince:investors	state or province investors
+concept:city:springfield	city springfield
+concept:plant:guava	plant guava
+concept:mammal:australasia	mammal australasia
+concept:musicinstrument:africa	music instrument africa
+concept:city:emeryville	city emery ville
+concept:city:upland	city upland
+concept:stateorprovince:mississippi	state or province mississippi
+concept:plant:birch	plant birch
+concept:dateliteral:n1943	date literal n 1943
+concept:sportsteam:georgia_tech	sports team georgia tech
+concept:coach:chan_gailey	coach chan gail ey
+concept:plant:silver_maple	plant silver maple
+concept:city:aurora	city aurora
+concept:muscle:skeletal_muscles	muscle skeletal muscles
+concept:year:n1989	year n 1989
+concept:city:nyc_	city nyc
+concept:bodypart:viscera	body part viscera
+concept:city:east_lansing	city east lansing
+concept:sportsteam:mavs	sports team ma vs
+concept:nerve:nerve_roots	nerve nerve roots
+concept:politicalparty:other_countries	political party other countries
+concept:month:december	month december
+concept:nerve:medulla	nerve medulla
+concept:plant:shrub	plant shrub
+concept:lake:great_lakes	lake great lakes
+concept:blog:manager	blog manager
+concept:trainstation:agents	train station agents
+concept:bodypart:consciousness	body part consciousness
+concept:braintissue:thyroid_gland	brain tissue thyroid gland
+concept:website:feature	website feature
+concept:person:jeff_tedford	person jeff ted ford
+concept:building:rates	building rates
+concept:city:vegas	city vegas
+concept:muscle:skeletal_system	muscle skeletal system
+concept:trainstation:fall	train station fall
+concept:bodypart:anatomy	body part anatomy
+concept:plant:dogwoods	plant dogwoods
+concept:country:comoros	country comoros
+concept:country:democratic_republic_of_congo	country democratic republic of congo
+concept:county:austin	county austin
+concept:stateorprovince:minnesota	state or province minnesota
+concept:stadiumoreventvenue:johnny_red_floyd_stadium	stadium or event venue johnny red floyd stadium
+concept:country:chile	country chile
+concept:stateorprovince:nevada	state or province nevada
+concept:sportsteam:notre_dame	sports team notre dame
+concept:year:n1983	year n 1983
+concept:city:hopkinsville	city hopkinsville
+concept:city:boca_raton	city boca raton
+concept:shoppingmall:pompano_beach	shopping mall pompano beach
+concept:blog:northern_virginia	blog northern virginia
+concept:stateorprovince:north_carolina	state or province north carolina
+concept:sportsteam:padres	sports team padres
+concept:lymphnode:lymph_nodes	lymph node lymph nodes
+concept:plant:cypresses	plant cypresses
+concept:plant:moss	plant moss
+concept:country:switzerland	country switzerland
+concept:personaustralia:paul_hewitt	person australia paul hewitt
+concept:city:reason	city reason
+concept:stadiumoreventvenue:palace_of_auburn_hills	stadium or event venue palace of auburn hills
+concept:bodypart:limbs	body part limbs
+concept:city:salinas	city salinas
+concept:city:nipomo	city ni pomo
+concept:geopoliticallocation:ecuador	geopolitical location ecuador
+concept:bodypart:root	body part root
+concept:island:iceland	island iceland
+concept:city:plans	city plans
+concept:plant:crabapple	plant crab apple
+concept:stateorprovince:nunavut	state or province nunavut
+concept:musicartist:journal	music artist journal
+concept:musicinstrument:avalon	music instrument avalon
+concept:country:bahamas	country bahamas
+concept:currency:dollars	currency dollars
+concept:transportation:weather	transportation weather
+concept:braintissue:stress	brain tissue stress
+concept:website:teaching	website teaching
+concept:city:renton	city renton
+concept:sport:softball	sport softball
+concept:person:spurrier	person spur rie r
+concept:country:darfur	country darfur
+concept:plant:redbuds	plant redbud s
+concept:county:louisiana_state	county louisiana state
+concept:city:lima	city lima
+concept:country:phillipines	country phillipines
+concept:planet:economy	planet economy
+concept:braintissue:ganglia	brain tissue ganglia
+concept:country:wales	country wales
+concept:website:report	website report
+concept:plant:cedars	plant cedars
+concept:male:sun	male sun
+concept:geopoliticallocation:yale	geopolitical location yale
+concept:city:pleasanton	city pleasanton
+concept:stadiumoreventvenue:oracle_arena	stadium or event venue oracle arena
+concept:year:n1970	year n 1970
+concept:company:post	company post
+concept:website:trip	website trip
+concept:sportsteam:oakland_athletics	sports team oakland athletics
+concept:beach:fort_worth	beach fort worth
+concept:male:john_thompson_iii	male john thompson iii
+concept:plant:mulberry	plant mulberry
+concept:bodypart:functions	body part functions
+concept:country:singapore	country singapore
+concept:building:cities	building cities
+concept:plant:conifers	plant conifers
+concept:sportsteam:mariners	sports team mariners
+concept:sportsteam:san_diego_padres	sports team san diego padres
+concept:stadiumoreventvenue:kyle_field	stadium or event venue kyle field
+concept:country:albania	country albania
+concept:country:nazi_germany	country nazi germany
+concept:website:license	website license
+concept:city:mendocino	city mendocino
+concept:muscle:heart_muscle	muscle heart muscle
+concept:geopoliticallocation:navy	geopolitical location navy
+concept:stateorprovince:cooperation	state or province cooperation
+concept:country:balkans	country balkans
+concept:county:brandon	county brandon
+concept:stateorprovince:wyoming	state or province wyoming
+concept:county:athens	county athens
+concept:aquarium:experiences	aquarium experiences
+concept:city:citrus_heights	city citrus heights
+concept:coach:alabama_crimson_tide	coach alabama crimson tide
+concept:coach:cincinnati_bearcats	coach cincinnati bearcats
+concept:city:port_arthur	city port arthur
+concept:continent:africa	continent africa
+concept:stadiumoreventvenue:theatre	stadium or event venue theatre
+concept:vehicle:services	vehicle services
+concept:plant:juniper	plant juniper
+concept:musicsong:galveston	music song galveston
+concept:plant:palm_trees	plant palm trees
+concept:geopoliticallocation:offer	geopolitical location offer
+concept:city:miami_beach	city miami beach
+concept:plant:perennials	plant perennials
+concept:plant:peonies	plant peonies
+concept:plant:lindens	plant lindens
+concept:city:rio	city rio
+concept:river:american	river american
+concept:plant:pines	plant pines
+concept:plant:bushes	plant bushes
+concept:plant:tamarisk	plant tamarisk
+concept:city:san_clemente	city san clemente
+concept:city:elk_grove	city elk grove
+concept:university:north_dakota_state	university north dakota state
+concept:skyscraper:financial_center	skyscraper financial center
+concept:county:bay_area	county bay area
+concept:plant:cedar	plant cedar
+concept:attraction:background	attraction background
+concept:plant:cottonwood	plant cottonwood
+concept:vein:blood_vessel	vein blood vessel
+concept:country:italy	country italy
+concept:country:fiji	country fiji
+concept:transportation:coalition	transportation coalition
+concept:plant:hazelnut	plant hazelnut
+concept:island:proposal	island proposal
+concept:stateorprovince:tasmania	state or province tasmania
+concept:sportsteam:time_the_cubs	sports team time the cubs
+concept:plant:holm_oaks	plant holm oaks
+concept:country:egypt	country egypt
+concept:radiostation:dothan	radio station dothan
+concept:muscle:neuromuscular_junction	muscle neuromuscular junction
+concept:city:winston_salem	city winston salem
+concept:year:n1960	year n 1960
+concept:plant:hardwoods	plant hardwoods
+concept:color:green	color green
+concept:city:discussion	city discussion
+concept:website:trends	website trends
+concept:sportsteam:usc	sports team usc
+concept:plant:elm	plant elm
+concept:city:homestead	city homestead
+concept:county:tallahassee	county tallahassee
+concept:city:barcelona	city barcelona
+concept:plant:pandanus	plant pandanus
+concept:sportsteam:nittany_lions	sports team nitta ny lions
+concept:book:key_west	book key west
+concept:county:utah	county utah
+concept:stateorprovince:british_columbia	state or province british columbia
+concept:visualizablething:charge	visual iz able thing charge
+concept:stadiumoreventvenue:carter_finley_stadium	stadium or event venue carter finley stadium
+concept:city:azusa	city az usa
+concept:nerve:muscles	nerve muscles
+concept:nerve:spine	nerve spine
+concept:city:redondo_beach	city redondo beach
+concept:website:influence	website influence
+concept:nerve:ligaments	nerve ligaments
+concept:celebrity:northwestern_wildcats	celebrity northwestern wildcats
+concept:braintissue:area	brain tissue area
+concept:beach:jacksonville	beach jacksonville
+concept:mountain:melanesia	mountain melanesia
+concept:muscle:cardiac_muscle	muscle cardiac muscle
+concept:dateliteral:n1980	date literal n 1980
+concept:celebrity:southern_illinois_salukis	celebrity southern illinois s aluk is
+concept:city:montreal	city montreal
+concept:sportsteamposition:player	sports team position player
+concept:city:neighborhood	city neighborhood
+concept:country:republic_of_angola	country republic of angola
+concept:plant:birches	plant birches
+concept:country:somalia	country somalia
+concept:month:june	month june
+concept:city:arlington_heights	city arlington heights
+concept:artery:major_vessel	artery major vessel
+concept:university:villanova	university villanova
+concept:coach:jamey_wright	coach jam ey wright
+concept:city:visalia	city visa lia
+concept:city:quincy	city quincy
+concept:plant:pine_trees	plant pine trees
+concept:plant:hibiscus	plant hibiscus
+concept:city:parents	city parents
+concept:website:trend	website trend
+concept:city:supply	city supply
+concept:city:valencia	city valencia
+concept:city:population	city population
+concept:stadiumoreventvenue:huskie_stadium	stadium or event venue husk ie stadium
+concept:plant:mangrove	plant mangrove
+concept:plant:tulip	plant tulip
+concept:landscapefeatures:water	landscape features water
+concept:color:yellow	color yellow
+concept:city:construction	city construction
+concept:city:tripoli	city tripoli
+concept:sportsteam:wichita_state	sports team wichita state
+concept:city:heathrow	city heathrow
+concept:room:master	room master
+concept:artery:cervix	artery cervix
+concept:mountain:geography	mountain geography
+concept:stateorprovince:malopolskie	state or province malo polski e
+concept:river:neches	river nec he s
+concept:artery:individuals	artery individuals
+concept:county:youth	county youth
+concept:county:private_schools	county private schools
+concept:plant:ficus	plant ficus
+concept:coach:kansas_state	coach kansas state
+concept:artery:vessel_walls	artery vessel walls
+concept:plant:spruce	plant spruce
+concept:country:equator__guinea	country equator guinea
+concept:personus:gary_barnett	person us gary barnett
+concept:sportsgame:days_last_week	sports game days last week
+concept:city:watsonville	city watson ville
+concept:city:truckee	city truck ee
+concept:sportsteam:huskies	sports team huskies
+concept:city:susanville	city susan ville
+concept:automobilemaker:dallas_cowboys	automobile maker dallas cowboys
+concept:building:spot	building spot
+concept:country:jordan	country jordan
+concept:coach:georgetown	coach georgetown
+concept:university:the_ohio_state	university the ohio state
+concept:geolocatablething:buildings	geol oca table thing buildings
+concept:geopoliticallocation:anderson	geopolitical location anderson
+concept:stadiumoreventvenue:sun_bowl_stadium	stadium or event venue sun bowl stadium
+concept:plant:cork_oak	plant cork oak
+concept:plant:douglas_fir	plant douglas fir
+concept:stadiumoreventvenue:martin_stadium	stadium or event venue martin stadium
+concept:city:sonoma	city sonoma
+concept:county:granite	county granite
+concept:sportsteam:red_wings	sports team red wings
+concept:coach:arkansas_razorbacks	coach arkansas razorbacks
+concept:plant:bald_cypress	plant bald cypress
+concept:park:n1	park n 1
+concept:continent:north_america	continent north america
+concept:coach:mississippi_state_bulldogs	coach mississippi state bulldogs
+concept:year:n1781	year n 1781
+concept:university:clemson	university clemson
+concept:personaustralia:mike_krzyzewski	person australia mike krzyzewski
+concept:stateorprovince:travel	state or province travel
+concept:artery:right	artery right
+concept:city:antigua	city antigua
+concept:country:uruguay	country uruguay
+concept:bodypart:fluid_space	body part fluid space
+concept:bodypart:hair_follicles	body part hair follicles
+concept:plant:hedges	plant hedges
+concept:plant:box	plant box
+concept:bodypart:liver	body part liver
+concept:stateorprovince:blue_state	state or province blue state
+concept:bodypart:digestive_tract	body part digestive tract
+concept:stadiumoreventvenue:lavell_edwards_stadium	stadium or event venue lave ll edwards stadium
+concept:city:placentia	city placentia
+concept:sportsteam:dallas_cowboys	sports team dallas cowboys
+concept:plant:tree_species	plant tree species
+concept:sportsgame:more_years	sports game more years
+concept:country:belgium	country belgium
+concept:bridge:world	bridge world
+concept:city:wenatchee	city wen at chee
+concept:plant:alder_trees	plant alder trees
+concept:plant:myrtle	plant myrtle
+concept:country:malta	country malta
+concept:stateorprovince:contact	state or province contact
+concept:city:rockford	city rockford
+concept:coach:crean	coach crea n
+concept:date:n1969	date n 1969
+concept:city:denver	city denver
+concept:country:republic_of_lithuania	country republic of lithuania
+concept:nerve:damage	nerve damage
+concept:visualizablething:stuff	visual iz able thing stuff
+concept:website:developers	website developers
+concept:city:zurich	city zurich
+concept:bodypart:ears	body part ears
+concept:mountain:long_island	mountain long island
+concept:personaustralia:gary_pinkel	person australia gary pink el
+concept:stadiumoreventvenue:navy_marine_corps_memorial_stadium	stadium or event venue navy marine corps memorial stadium
+concept:sportsteam:year_the_cubs	sports team year the cubs
+concept:artery:branches	artery branches
+concept:artery:carotid	artery carotid
+concept:country:darfur_region	country darfur region
+concept:geopoliticallocation:santa_maria	geopolitical location santa maria
+concept:coach:kentucky_wildcats	coach kentucky wildcats
+concept:stadiumoreventvenue:amway_center	stadium or event venue amway center
+concept:braintissue:eyes	brain tissue eyes
+concept:city:arlington	city arlington
+concept:celebrity:san_diego_state_aztecs	celebrity san diego state aztecs
+concept:transportation:safety	transportation safety
+concept:city:baldwin_park	city baldwin park
+concept:stateorprovince:kansas	state or province kansas
+concept:stateorprovince:nb	state or province nb
+concept:country:jamaica	country jamaica
+concept:artery:carotid_arteries	artery carotid arteries
+concept:plant:post_oak	plant post oak
+concept:person:molly_moore	person molly moore
+concept:country:montenegro	country montenegro
+concept:plant:hemlock	plant hemlock
+concept:city:oak_park	city oak park
+concept:plant:monocultures	plant monocultures
+concept:plant:sugar_maple	plant sugar maple
+concept:person:davis	person davis
+concept:sportsteam:louisville_cardinals	sports team louisville cardinals
+concept:country:drc	country drc
+concept:professionalorganization:american_airlines_arena	professional organization american airlines arena
+concept:country:scandinavian_countries	country scandinavian countries
+concept:musician:jimmy_johnson	musician jimmy johnson
+concept:sportsteam:buckeyes	sports team buckeyes
+concept:country:pakistan	country pakistan
+concept:city:copenhagen	city copenhagen
+concept:plant:peach	plant peach
+concept:stadiumoreventvenue:lockhart_stadium	stadium or event venue lockhart stadium
+concept:bodypart:body_organs	body part body organs
+concept:city:melbourne	city melbourne
+concept:plant:fruit_trees	plant fruit trees
+concept:sportsteam:blue_jays	sports team blue jays
+concept:nerve:brain_function	nerve brain function
+concept:politicsblog:originator	politics blog originator
+concept:city:manhattan_beach	city manhattan beach
+concept:geopoliticallocation:middle_east	geopolitical location middle east
+concept:plant:live_oak	plant live oak
+concept:plant:cypress_trees	plant cypress trees
+concept:country:gambia	country gambia
+concept:city:san_andreas	city san andreas
+concept:landscapefeatures:battle	landscape features battle
+concept:geopoliticallocation:arizona_state	geopolitical location arizona state
+concept:plant:alder	plant alder
+concept:city:pacifica	city pacific a
+concept:county:n18_years	county n 18 years
+concept:company:cities	company cities
+concept:sportsteam:razorbacks	sports team razorbacks
+concept:attraction:ground_zero	attraction ground zero
+concept:room:family	room family
+concept:city:conroe	city con roe
+concept:coach:nick_saban	coach nick sab an
+concept:city:charlottesville	city charlottesville
+concept:park:word	park word
+concept:coach:cam_cameron	coach cam cameron
+concept:sportsteam:miami_dolphins	sports team miami dolphins
+concept:sportsteam:penn_state	sports team penn state
+concept:retailstore:big_apple	retail store big apple
+concept:plant:oaks	plant oaks
+concept:river:similkameen	river si milk a me en
+concept:artery:spinal_canal	artery spinal canal
+concept:coach:louisville	coach louisville
+concept:bodypart:sac	body part sac
+concept:sportsteam:beloved_cubs	sports team beloved cubs
+concept:country:yemen	country yemen
+concept:plant:crabapples	plant crabapples
+concept:website:voice	website voice
+concept:coach:bob_devaney	coach bob devan ey
+concept:plant:mesquite	plant mesquite
+concept:geopoliticallocation:americas	geopolitical location americas
+concept:city:istanbul	city istanbul
+concept:building:prices	building prices
+concept:plant:cotton	plant cotton
+concept:artery:arms	artery arms
+concept:city:college_station	city college station
+concept:country:colombia	country colombia
+concept:continent:south_america	continent south america
+concept:city:livermore	city livermore
+concept:muscle:muscle_tension	muscle muscle tension
+concept:artery:urinary_tract	artery urinary tract
+concept:river:six	river six
+concept:geopoliticallocation:far_east	geopolitical location far east
+concept:politician:alex_sink	politician alex sink
+concept:nongovorganization:cities	non gov organization cities
+concept:geopoliticallocation:security	geopolitical location security
+concept:stateorprovince:events	state or province events
+concept:stadiumoreventvenue:indian_stadium	stadium or event venue indian stadium
+concept:geopoliticalorganization:awards	geopolitical organization awards
+concept:university:western_illinois	university western illinois
+concept:county:lexington	county lexington
+concept:university:purdue	university purdue
+concept:personmexico:matt_painter	person mexico matt painter
+concept:website:seven_days	website seven days
+concept:visualizablescene:inn	visual iz able scene inn
+concept:sportsequipment:gear	sports equipment gear
+concept:stadiumoreventvenue:bulldog_stadium	stadium or event venue bulldog stadium
+concept:bodypart:head001	body part head 001
+concept:city:hotels	city hotels
+concept:personus:thomas_steen	person us thomas steen
+concept:stadiumoreventvenue:intersection	stadium or event venue intersection
+concept:plant:avocado	plant avocado
+concept:plant:blue_spruce	plant blue spruce
+concept:city:blythe	city blythe
+concept:nerve:unconscious_mind	nerve unconscious mind
+concept:perceptionaction:dubuque	perception action dubuque
+concept:stadiumoreventvenue:movie_gallery_stadium	stadium or event venue movie gallery stadium
+concept:visualizablescene:san_bernadino	visual iz able scene san bernadin o
+concept:stadiumoreventvenue:sam_boyd_stadium	stadium or event venue sam boyd stadium
+concept:plant:box_elder	plant box elder
+concept:city:friend	city friend
+concept:coach:guy_morriss	coach guy morriss
+concept:sportsleague:syracuse	sports league syracuse
+concept:coach:doug_marrone	coach doug marr one
+concept:stadiumoreventvenue:spartan_stadium	stadium or event venue spartan stadium
+concept:attraction:nyc	attraction nyc
+concept:professor:anson_dorrance	professor anson dor ran ce
+concept:city:pullman	city pullman
+concept:stateorprovince:iowa	state or province iowa
+concept:university:carolina_state_university	university carolina state university
+concept:attraction:art	attraction art
+concept:landscapefeatures:industries	landscape features industries
+concept:artery:central_nervous_system	artery central nervous system
+concept:city:bradenton	city bradenton
+concept:geopoliticallocation:continents	geopolitical location continents
+concept:planet:friends	planet friends
+concept:stadiumoreventvenue:aloha_stadium	stadium or event venue aloha stadium
+concept:newspaper:democrat	newspaper democrat
+concept:city:taipei	city taipei
+concept:city:communities	city communities
+concept:city:fallbrook	city fallbrook
+concept:university:memphis	university memphis
+concept:coach:tommy_west	coach tommy west
+concept:geopoliticallocation:hamilton	geopolitical location hamilton
+concept:coach:bob_stoops	coach bob stoops
+concept:museum:powerhouse	museum powerhouse
+concept:country:ease	country ease
+concept:country:moldova	country moldova
+concept:attraction:fun	attraction fun
+concept:stateorprovince:southeast_asia	state or province southeast asia
+concept:hotel:north	hotel north
+concept:city:imperial_beach	city imperial beach
+concept:country:eastern_european_countries	country eastern european countries
+concept:retailstore:play	retail store play
+concept:country:ivory_coast	country ivory coast
+concept:website:organisations	website organisations
+concept:hotel:landmark	hotel landmark
+concept:county:chicago	county chicago
+concept:plant:magnolias	plant magnolias
+concept:city:newport_news_hampton_wmsburg	city newport news hampton wm s burg
+concept:plant:tamarack	plant tama rack
+concept:coach:mike_gundy	coach mike gun dy
+concept:nerve:lymph	nerve lymph
+concept:website:growth	website growth
+concept:county:manhattan	county manhattan
+concept:city:placerville	city placer ville
+concept:city:pacific	city pacific
+concept:city:berkeley	city berkeley
+concept:county:detroit	county detroit
+concept:braintissue:senses	brain tissue senses
+concept:website:projects	website projects
+concept:book:summerland	book summerland
+concept:coach:bobby_gonzalez	coach bobby gonzalez
+concept:room:setting	room setting
+concept:plant:ash_trees	plant ash trees
+concept:county:columbus	county columbus
+concept:nerve:cranial_nerves	nerve cranial nerves
+concept:plant:orchids	plant orchids
+concept:coach:rick_barnes	coach rick barnes
+concept:city:owensboro	city owensboro
+concept:island:philippine_islands	island philippine islands
+concept:city:mission_viejo	city mission viejo
+concept:city:los_banos	city los bano s
+concept:city:ames	city ames
+concept:stadiumoreventvenue:louisiana_superdome	stadium or event venue louisiana superdome
+concept:location:christian	location christian
+concept:braintissue:myelin	brain tissue myelin
+concept:sportsteam:wake_forest	sports team wake forest
+concept:river:architecture	river architecture
+concept:geopoliticallocation:european_nations	geopolitical location european nations
+concept:person:montgomery	person montgomery
+concept:city:mesquite	city mesquite
+concept:plant:sage	plant sage
+concept:city:shanghai	city shanghai
+concept:country:new_guinea	country new guinea
+concept:beverage:mobile	beverage mobile
+concept:plant:red_cedar	plant red cedar
+concept:stadiumoreventvenue:donald_w_reynolds_razorback_stadium	stadium or event venue donald w reynolds razor back stadium
+concept:city:sausalito	city s a us alito
+concept:city:surprise	city surprise
+concept:transportation:stadium	transportation stadium
+concept:stadiumoreventvenue:williams_brice_stadium	stadium or event venue williams brice stadium
+concept:country:slovakia	country slovakia
+concept:stateorprovince:durango	state or province durango
+concept:coach:vince_dooley	coach vince dooley
+concept:vein:layers	vein layers
+concept:city:san_ramon	city san ramon
+concept:room:hour	room hour
+concept:visualizablescene:vacation	visual iz able scene vacation
+concept:county:south_lake_tahoe	county south lake tahoe
+concept:country:zambia	country zambia
+concept:stadiumoreventvenue:lexington	stadium or event venue lexington
+concept:room:development	room development
+concept:planet:object	planet object
+concept:geopoliticallocation:caribbean	geopolitical location caribbean
+concept:website:babylon	website babylon
+concept:city:american_city	city american city
+concept:city:fredericksburg	city fredericksburg
+concept:country:same_time	country same time
+concept:plant:poplar	plant poplar
+concept:person:al_skinner	person al skinner
+concept:country:communist_china	country communist china
+concept:sportsteam:brooklyn_dodgers	sports team brooklyn dodgers
+concept:stadiumoreventvenue:rentschler_field	stadium or event venue rents c hler field
+concept:artery:process	artery process
+concept:plant:water_oaks	plant water oaks
+concept:plant:lilies	plant lilies
+concept:plant:red_oak	plant red oak
+concept:visualizablething:urine	visual iz able thing urine
+concept:country:republic_of_kenya	country republic of kenya
+concept:city:kissimmee	city kissimmee
+concept:plant:vine	plant vine
+concept:street:lots	street lots
+concept:visualizablething:big_city	visual iz able thing big city
+concept:city:elgin	city elgin
+concept:attraction:station	attraction station
+concept:retailstore:border	retail store border
+concept:country:u_s_a_	country u s a
+concept:bodypart:gastrointestinal_system	body part gastrointestinal system
+concept:stateorprovince:facility	state or province facility
+concept:city:saratoga	city saratoga
+concept:company:walt_disney_world	company walt disney world
+concept:city:beverly_hills	city beverly hills
+concept:attraction:press	attraction press
+concept:stadiumoreventvenue:stage_ae	stadium or event venue stage a e
+concept:plant:hazel	plant hazel
+concept:transportation:money	transportation money
+concept:country:ethiopia	country ethiopia
+concept:county:jupiter	county jupiter
+concept:country:djibouti	country djibouti
+concept:country:barbados	country barbados
+concept:mountain:bachelor	mountain bachelor
+concept:sportsteam:habs	sports team habs
+concept:landscapefeatures:guide	landscape features guide
+concept:braintissue:encephalon	brain tissue en cephalon
+concept:country:king	country king
+concept:female:reno	female reno
+concept:bodypart:heart_valves	body part heart valves
+concept:sportsteam:uconn	sports team uconn
+concept:website:aim	website aim
+concept:museum:community	museum community
+concept:insect:arkansas	insect arkansas
+concept:plant:ponderosa_pine	plant ponder osa pine
+concept:coach:frank_solich	coach frank so lich
+concept:muscle:membrane	muscle membrane
+concept:year:n1967	year n 1967
+concept:city:carmichael	city carmichael
+concept:braintissue:bodies	brain tissue bodies
+concept:hospital:star	hospital star
+concept:stateorprovince:zachodniopomorskie	state or province za chod nio pom or ski e
+concept:city:el_cajon	city el cajon
+concept:braintissue:sensory_systems	brain tissue sensory systems
+concept:city:tampa_bay	city tampa bay
+concept:city:bellflower	city bellflower
+concept:plant:tulips	plant tulips
+concept:plant:grasses	plant grasses
+concept:visualizablescene:pasture	visual iz able scene pasture
+concept:stateorprovince:kashmir	state or province kashmir
+concept:city:native_south	city native south
+concept:artery:neck	artery neck
+concept:city:round_rock	city round rock
+concept:plant:coconut_palms	plant coconut palms
+concept:stateorprovince:course	state or province course
+concept:perceptionaction:council_bluffs	perception action council bluffs
+concept:company:services	company services
+concept:lake:gulf	lake gulf
+concept:attraction:studios	attraction studios
+concept:politicsblog:showcase	politics blog showcase
+concept:coach:purdue_boilermakers	coach purdue boiler makers
+concept:country:cote_dvoire	country cote d voire
+concept:sociopolitical:independence	sociopolitical independence
+concept:eventoutcome:title	event outcome title
+concept:hotel:resource	hotel resource
+concept:bodypart:body_tissues	body part body tissues
+concept:stadiumoreventvenue:joe_aillet_stadium	stadium or event venue joe ail let stadium
+concept:sportsequipment:basketballs	sports equipment basketballs
+concept:plant:live_oaks	plant live oaks
+concept:plant:junipers	plant junipers
+concept:river:boat	river boat
+concept:sportsteam:umass_lowell_river_hawks	sports team umass lowell river hawks
+concept:visualizablething:area_	visual iz able thing area
+concept:room:rest	room rest
+concept:coach:carroll	coach carroll
+concept:city:naperville	city na per ville
+concept:stadiumoreventvenue:amway_arena	stadium or event venue amway arena
+concept:website:results	website results
+concept:artery:microvessels	artery micro vessels
+concept:braintissue:meninges	brain tissue meninges
+concept:geopoliticalorganization:quec	geopolitical organization que c
+concept:city:bar	city bar
+concept:hotel:boutique_hotel	hotel boutique hotel
+concept:landscapefeatures:top	landscape features top
+concept:city:towns	city towns
+concept:country:luxembourg	country luxembourg
+concept:bodypart:thyroid_glands	body part thyroid glands
+concept:trainstation:door	train station door
+concept:stadiumoreventvenue:vaught_hemingway_stadium	stadium or event venue v aught hemingway stadium
+concept:stadiumoreventvenue:falcon_stadium	stadium or event venue falcon stadium
+concept:plant:banana	plant banana
+concept:sportsteam:byu_hawaii	sports team byu hawaii
+concept:geopoliticalorganization:wurttemberg	geopolitical organization wu rttemberg
+concept:country:puerto_rico	country puerto rico
+concept:county:celebration	county celebration
+concept:room:levels	room levels
+concept:plant:cherry_trees	plant cherry trees
+concept:city:covina	city covina
+concept:city:hometown	city hometown
+concept:bodypart:soft_tissue	body part soft tissue
+concept:person:george_washington	person george washington
+concept:country:republic_of_seychelles	country republic of seychelles
+concept:sportsteam:detroit_tigers	sports team detroit tigers
+concept:city:bothell	city both ell
+concept:visualizablescene:thousand_oaks	visual iz able scene thousand oaks
+concept:lake:mid_atlantic	lake mid atlantic
+concept:sportsteam:phils	sports team phil s
+concept:room:unit	room unit
+concept:sportsteam:uk	sports team uk
+concept:bodypart:heart_chambers	body part heart chambers
+concept:country:commonwealth_countries	country commonwealth countries
+concept:city:encinitas	city enc in it as
+concept:park:hyatt_regency	park hyatt regency
+concept:artery:main_arteries	artery main arteries
+concept:plant:beeches	plant beeches
+concept:sportsteam:aggies	sports team aggies
+concept:braintissue:esophagus	brain tissue esophagus
+concept:bodypart:feet	body part feet
+concept:bodypart:circulatory	body part circulatory
+concept:stateorprovince:last_year	state or province last year
+concept:stadiumoreventvenue:joan_c_edwards_stadium	stadium or event venue joan c edwards stadium
+concept:plant:sweetgum	plant sweet gum
+concept:plant:larch	plant larch
+concept:musicsong:abilene	music song abilene
+concept:city:districts	city districts
+concept:stadiumoreventvenue:industry	stadium or event venue industry
+concept:plant:plane_trees	plant plane trees
+concept:visualizablething:altamonte_springs	visual iz able thing altamonte springs
+concept:televisionstation:saint_louis	television station saint louis
+concept:plant:hardwood_trees	plant hardwood trees
+concept:coach:brett_carroll	coach brett carroll
+concept:stadiumoreventvenue:princeton_stadium	stadium or event venue princeton stadium
+concept:plant:white_spruce	plant white spruce
+concept:mountain:inspiration	mountain inspiration
+concept:stateorprovince:crime	state or province crime
+concept:stadiumoreventvenue:agganis_arena	stadium or event venue a gg an is arena
+concept:plant:boxelder	plant box elder
+concept:city:northridge	city northridge
+concept:city:sonora	city sonora
+concept:braintissue:stress_response	brain tissue stress response
+concept:stadiumoreventvenue:ohio_stadium	stadium or event venue ohio stadium
+concept:park:skyline	park skyline
+concept:stateorprovince:points	state or province points
+concept:city:frisco	city frisco
+concept:archaea:pathogens	archaea pathogens
+concept:plant:fig_trees	plant fig trees
+concept:lake:dublin	lake dublin
+concept:athlete:rick_pitino	athlete rick pitino
+concept:sportsteam:virginia_tech	sports team virginia tech
+concept:plant:hemlocks	plant hemlocks
+concept:city:tokyo	city tokyo
+concept:country:united_arab_emirates	country united arab emirates
+concept:city:cypress	city cypress
+concept:musicinstrument:blocks	music instrument blocks
+concept:county:atlanta	county atlanta
+concept:city:bloomington	city bloomington
+concept:geopoliticallocation:option	geopolitical location option
+concept:city:durango	city durango
+concept:city:killeen	city killeen
+concept:musicinstrument:resource	music instrument resource
+concept:bodypart:endocrine_system	body part endocrine system
+concept:island:american_samoa	island american samoa
+concept:lymphnode:enzymes	lymph node enzymes
+concept:person:oklahoma_state	person oklahoma state
+concept:city:countryside	city countryside
+concept:room:back	room back
+concept:bodypart:fascia	body part f as cia
+concept:city:amsterdam	city amsterdam
+concept:landscapefeatures:peak	landscape features peak
+concept:plant:willow	plant willow
+concept:transportation:residents	transportation residents
+concept:shoppingmall:delray_beach	shopping mall delray beach
+concept:restaurant:bed	restaurant bed
+concept:bodypart:injury	body part injury
+concept:retailstore:questions	retail store questions
+concept:coach:randy_shannon	coach randy shannon
+concept:sportsteam:miami_hurricanes	sports team miami hurricanes
+concept:stadiumoreventvenue:wallace_wade_stadium	stadium or event venue wallace wade stadium
+concept:writer:clayton	writer clayton
+concept:shoppingmall:affiliate	shopping mall affiliate
+concept:plant:wild_flowers	plant wild flowers
+concept:sportsteam:avs	sports team a vs
+concept:city:orlando	city orlando
+concept:city:belmont	city belmont
+concept:plant:salt_cedar	plant salt cedar
+concept:stadiumoreventvenue:doak_campbell_stadium	stadium or event venue doak campbell stadium
+concept:stateorprovince:europeans	state or province europeans
+concept:island:haven	island haven
+concept:plant:bamboo	plant bamboo
+concept:island:niue	island niue
+concept:bodypart:cavity	body part cavity
+concept:stadiumoreventvenue:bobby_dodd_stadium	stadium or event venue bobby dodd stadium
+concept:sportsgame:yrs	sports game yrs
+concept:bodypart:adrenals	body part adrenals
+concept:university:brownsville	university brownsville
+concept:city:toledo	city toledo
+concept:river:theme	river theme
+concept:coach:skip_prosser	coach skip prosser
+concept:city:winchester	city winchester
+concept:plant:rhododendrons	plant rhododendrons
+concept:city:aspen	city aspen
+concept:street:katy	street katy
+concept:city:merced	city merced
+concept:coach:cowher	coach cowher
+concept:stateorprovince:sides	state or province sides
+concept:city:ojai	city ojai
+concept:restaurant:target	restaurant target
+concept:plant:beautiful_moss	plant beautiful moss
+concept:country:iran	country iran
+concept:artery:glomerulus	artery gl omer ul us
+concept:radiostation:beaumont	radio station beaumont
+concept:bodypart:gland	body part gland
+concept:landscapefeatures:camp	landscape features camp
+concept:shoppingmall:boynton_beach	shopping mall boynton beach
+concept:braintissue:adrenal_glands	brain tissue adrenal glands
+concept:plant:cedar_trees	plant cedar trees
+concept:geopoliticallocation:latin_america	geopolitical location latin america
+concept:city:burlingame	city burlingame
+concept:city:cerritos	city cer rito s
+concept:braintissue:vertebral_column	brain tissue vertebral column
+concept:country:saudis	country saudis
+concept:stadiumoreventvenue:vanderbilt_stadium	stadium or event venue vanderbilt stadium
+concept:city:cairo	city cairo
+concept:visualizablescene:dehli	visual iz able scene dehli
+concept:person:john__honey_fitz__fitzgerald	person john honey fitz fitzgerald
+concept:stadiumoreventvenue:rose_garden	stadium or event venue rose garden
+concept:city:portland	city portland
+concept:city:side	city side
+concept:color:yellows	color yellows
+concept:city:tacoma	city tacoma
+concept:person:sherman	person sherman
+concept:artery:major_artery	artery major artery
+concept:plant:carob	plant caro b
+concept:transportation:search	transportation search
+concept:aquarium:whole_world	aquarium whole world
+concept:writer:harvard	writer harvard
+concept:sportsequipment:nets	sports equipment nets
+concept:university:kent_state	university kent state
+concept:landscapefeatures:provinces	landscape features provinces
+concept:plant:lime_trees	plant lime trees
+concept:plant:baobab	plant baobab
+concept:bodypart:meridians	body part meridians
+concept:stadiumoreventvenue:romney_stadium	stadium or event venue romney stadium
+concept:plant:oleander	plant oleander
+concept:coach:ernie_kent	coach ernie kent
+concept:coach:gary_barnett	coach gary barnett
+concept:celebrity:washington_state_cougars	celebrity washington state cougars
+concept:planet:reasons	planet reasons
+concept:bodypart:inner_organs	body part inner organs
+concept:plant:silver_birch	plant silver birch
+concept:retailstore:consumers	retail store consumers
+concept:room:style	room style
+concept:bodypart:membrane	body part membrane
+concept:website:concord	website concord
+concept:country:cameroon	country cameroon
+concept:artery:bifurcation	artery bifurcation
+concept:dateliteral:n1846	date literal n 1846
+concept:university:ball_state	university ball state
+concept:city:rancho_cucamonga	city rancho cucamonga
+concept:website:owner	website owner
+concept:coach:red_sanders	coach red sanders
+concept:stadiumoreventvenue:broadway	stadium or event venue broadway
+concept:coach:danny_hope	coach danny hope
+concept:plant:chestnut_trees	plant chestnut trees
+concept:plant:wattle	plant wattle
+concept:city:gilroy	city gil roy
+concept:artery:capillary	artery capillary
+concept:plant:birch_trees	plant birch trees
+concept:city:carpinteria	city car pinter i a
+concept:university:oregon_st	university oregon st
+concept:politicsblog:citizen	politics blog citizen
+concept:plant:lichens	plant lichens
+concept:plant:white_fir	plant white fir
+concept:hotel:dream	hotel dream
+concept:museum:exhibits	museum exhibits
+concept:transportation:fare	transportation fare
+concept:city:beijing	city beijing
+concept:transportation:data	transportation data
+concept:company:look	company look
+concept:city:duarte	city duarte
+concept:coach:bill_tierney	coach bill tierney
+concept:nerve:pituitary	nerve pituitary
+concept:stateorprovince:utah	state or province utah
+concept:plant:firs	plant firs
+concept:country:monaco	country monaco
+concept:magazine:discovery	magazine discovery
+concept:aquarium:u__s_	aquarium u s
+concept:landscapefeatures:full	landscape features full
+concept:geopoliticallocation:factor	geopolitical location factor
+concept:company:city_paper001	company city paper 001
+concept:geopoliticallocation:wright_state	geopolitical location wright state
+concept:coach:billy_gillespie	coach billy gillespie
+concept:website:province	website province
+concept:bodypart:face	body part face
+concept:plant:lodgepole_pine	plant lodge pole pine
+concept:mammal:recipient	mammal recipient
+concept:city:howard	city howard
+concept:stateorprovince:saskatchewan	state or province saskatchewan
+concept:plant:arbutus	plant arbutus
+concept:coach:darrell_royal	coach darrell royal
+concept:magazine:essence	magazine essence
+concept:braintissue:activity	brain tissue activity
+concept:room:entertainment	room entertainment
+concept:country:mauritius	country mauritius
+concept:zoo:animals	zoo animals
+concept:radiostation:san_antonio	radio station san antonio
+concept:bodypart:condition	body part condition
+concept:website:universal	website universal
+concept:city:santee	city santee
+concept:city:waterbury	city waterbury
+concept:company:imf	company imf
+concept:stadiumoreventvenue:bronco_stadium	stadium or event venue bronco stadium
+concept:nut:black_walnut	nut black walnut
+concept:perceptionaction:waterloo	perception action waterloo
+concept:stadiumoreventvenue:lane_stadium	stadium or event venue lane stadium
+concept:plant:plane	plant plane
+concept:braintissue:teeth	brain tissue teeth
+concept:stadiumoreventvenue:waldo_stadium	stadium or event venue waldo stadium
+concept:plant:hawthorn	plant hawthorn
+concept:transportation:action	transportation action
+concept:stateorprovince:belize	state or province belize
+concept:beach:resort	beach resort
+concept:city:vienna	city vienna
+concept:stadiumoreventvenue:kellyshorts_stadium	stadium or event venue kelly shorts stadium
+concept:building:town	building town
+concept:coach:south_carolina_gamecocks	coach south carolina gamecocks
+concept:city:litchfield	city litchfield
+concept:country:taiwan	country taiwan
+concept:museum:catalyst	museum catalyst
+concept:geopoliticallocation:parish	geopolitical location parish
+concept:planet:heaven	planet heaven
+concept:tool:lights	tool lights
+concept:politicsblog:ninth_state	politics blog ninth state
+concept:plant:olive_trees	plant olive trees
+concept:year:n1865	year n 1865
+concept:sportsequipment:goals	sports equipment goals
+concept:coach:gary_pinkel	coach gary pink el
+concept:hospital:hialeah	hospital hialeah
+concept:geopoliticallocation:stanford	geopolitical location stanford
+concept:stadiumoreventvenue:time_warner_cable_arena	stadium or event venue time warner cable arena
+concept:plant:mahogany	plant mahogany
+concept:planet:wonder	planet wonder
+concept:city:tulare	city tul are
+concept:city:torrance	city torrance
+concept:stadiumoreventvenue:tiger_stadium	stadium or event venue tiger stadium
+concept:stadiumoreventvenue:jordan_hare_stadium	stadium or event venue jordan hare stadium
+concept:vein:pituitary_gland	vein pituitary gland
+concept:city:palm_desert	city palm desert
+concept:coach:kelvin_sampson	coach kelvin sampson
+concept:plant:pear_cacti	plant pear cacti
+concept:coach:rex_ryan	coach rex ryan
+concept:city:atlanta	city atlanta
+concept:company:clinton	company clinton
+concept:clothing:white	clothing white
+concept:geopoliticalorganization:sovereign_state	geopolitical organization sovereign state
+concept:city:seat	city seat
+concept:plant:hackberry	plant hack berry
+concept:stadiumoreventvenue:camp_randall	stadium or event venue camp randall
+concept:geopoliticalorganization:nepal	geopolitical organization nepal
+concept:braintissue:enteric_nervous_system	brain tissue enteric nervous system
+concept:country:cape_verde	country cape verde
+concept:city:tasmania	city tasmania
+concept:politicsblog:presence	politics blog presence
+concept:coach:karl_dorrell	coach karl d orrell
+concept:university:new_mexico_state	university new mexico state
+concept:city:honolulu	city honolulu
+concept:muscle:trigeminal_nerve	muscle tri gemina l nerve
+concept:city:novato	city novato
+concept:stateorprovince:md	state or province md
+concept:coach:tim_floyd	coach tim floyd
+concept:university:usc	university usc
+concept:island:morro_bay	island morro bay
+concept:university:north_carolina_state	university north carolina state
+concept:stateorprovince:men	state or province men
+concept:country:lebanon	country lebanon
+concept:bodypart:muscle_groups	body part muscle groups
+concept:room:centerpiece	room centerpiece
+concept:country:republic_of_chad	country republic of chad
+concept:perceptionaction:cedar_rapids	perception action cedar rapids
+concept:artery:leg	artery leg
+concept:country:bolivia	country bolivia
+concept:city:stub	city stub
+concept:website:cost	website cost
+concept:stateorprovince:manufacturers	state or province manufacturers
+concept:person:don_shula	person don s hula
+concept:coach:tom_crean	coach tom crea n
+concept:politicsblog:portfolio	politics blog portfolio
+concept:country:former_ussr	country former ussr
+concept:city:baghdad	city baghdad
+concept:city:peoria	city peoria
+concept:city:banning	city banning
+concept:coach:sparano	coach spar a no
+concept:city:claremont	city claremont
+concept:plant:western_hemlock	plant western hemlock
+concept:skyscraper:collection	skyscraper collection
+concept:artery:surface	artery surface
+concept:coach:joe_tiller	coach joe tiller
+concept:street:park_plaza	street park plaza
+concept:person:oscar_wyatt	person oscar wyatt
+concept:bone:structures	bone structures
+concept:university:western_washington	university western washington
+concept:transportation:bit	transportation bit
+concept:sportsequipment:net	sports equipment net
+concept:city:turlock	city tur lock
+concept:island:total	island total
+concept:stadiumoreventvenue:air_canada_center	stadium or event venue air canada center
+concept:coach:lou_holtz	coach lou holt z
+concept:plant:hickories	plant hickories
+concept:city:lake_forest	city lake forest
+concept:stadiumoreventvenue:world_trade_center	stadium or event venue world trade center
+concept:country:turkmenistan	country turkmenistan
+concept:stadiumoreventvenue:university_stadium	stadium or event venue university stadium
+concept:plant:lodgepole_pines	plant lodge pole pines
+concept:bodypart:peripheral	body part peripheral
+concept:bodypart:musculoskeletal	body part mus cul o skeletal
+concept:city:san_anselmo	city san anselmo
+concept:plant:pineapple	plant pineapple
+concept:politicalparty:u_n_	political party u n
+concept:city:fort_wayne	city fort wayne
+concept:stateorprovince:average	state or province average
+concept:website:the_massachusetts	website the massachusetts
+concept:website:snap	website snap
+concept:city:marina_del_rey	city marina del rey
+concept:celebrity:davidson_wildcats	celebrity davidson wildcats
+concept:stadiumoreventvenue:robertson_stadium	stadium or event venue robertson stadium
+concept:stadiumoreventvenue:fedexforum	stadium or event venue fedex forum
+concept:plant:cherries	plant cherries
+concept:city:healdsburg	city he a lds burg
+concept:landscapefeatures:project	landscape features project
+concept:county:town	county town
+concept:city:auburn	city auburn
+concept:bodypart:fetus	body part fetus
+concept:hospital:suny	hospital suny
+concept:coach:washington_huskies	coach washington huskies
+concept:bodypart:bowels	body part bowels
+concept:city:perris	city per r is
+concept:hotel:dates	hotel dates
+concept:landscapefeatures:landscapes	landscape features landscapes
+concept:plant:reeds	plant reeds
+concept:plant:lime	plant lime
+concept:plant:native_oaks	plant native oaks
+concept:landscapefeatures:islands	landscape features islands
+concept:plant:aspens	plant aspens
+concept:city:guerneville	city guern evil le
+concept:plant:manzanita	plant manzan it a
+concept:coach:ron_zook	coach ron zoo k
+concept:bodypart:axons	body part axons
+concept:hotel:major_center	hotel major center
+concept:stadiumoreventvenue:rynearson_stadium	stadium or event venue ry near son stadium
+concept:county:glasgow	county glasgow
+concept:stateorprovince:value	state or province value
+concept:city:chowchilla	city chowchilla
+concept:county:san_francisco_state	county san francisco state
+concept:country:viet_nam	country viet nam
+concept:city:seaside	city seaside
+concept:country:nation	country nation
+concept:stadiumoreventvenue:mountaineer_field	stadium or event venue mountaineer field
+concept:director:summers	director summers
+concept:country:baltic_states	country baltic states
+concept:coach:bo_pelini	coach bo pelini
+concept:building:studio	building studio
+concept:perceptionaction:iowa_city	perception action iowa city
+concept:bodypart:ovaries	body part ovaries
+concept:bodypart:soft_tissues	body part soft tissues
+concept:stadiumoreventvenue:hughes_stadium	stadium or event venue hughes stadium
+concept:city:gurnee	city gur nee
+concept:geopoliticallocation:central_america	geopolitical location central america
+concept:room:expansion	room expansion
+concept:bodypart:reproductive_system001	body part reproductive system 001
+concept:visualizablescene:dana_point	visual iz able scene dana point
+concept:county:new_mexico	county new mexico
+concept:plant:lilac	plant lilac
+concept:river:brazos	river brazos
+concept:university:depaul	university depaul
+concept:park:land	park land
+concept:visualizablescene:lifestyle	visual iz able scene lifestyle
+concept:hospital:new_york_university_school	hospital new york university school
+concept:city:chino	city chino
+concept:geopoliticalorganization:real_estate	geopolitical organization real estate
+concept:plant:beech	plant beech
+concept:plant:aspen	plant aspen
+concept:bacteria:smooth_muscle_cells	bacteria smooth muscle cells
+concept:stadiumoreventvenue:icon	stadium or event venue icon
+concept:city:danville	city danville
+concept:beach:austin_texas	beach austin texas
+concept:plant:brush	plant brush
+concept:museum:institute	museum institute
+concept:stateorprovince:south_dakota	state or province south dakota
+concept:city:wichita	city wichita
+concept:country:niger	country niger
+concept:hotel:capitol	hotel capitol
+concept:plant:grapevines	plant grapevines
+concept:stateorprovince:zauchensee	state or province za u chen see
+concept:country:united_states_of_america	country united states of america
+concept:geopoliticallocation:central_michigan	geopolitical location central michigan
+concept:plant:maple	plant maple
+concept:bodypart:inflammatory_response	body part inflammatory response
+concept:beach:guam	beach guam
+concept:country:mozambique	country mozambique
+concept:stadiumoreventvenue:rutgers_stadium	stadium or event venue rutgers stadium
+concept:musicalbum:odessa	music album odessa
+concept:stateorprovince:new_south_wales	state or province new south wales
+concept:geopoliticallocation:gulf_region	geopolitical location gulf region
+concept:geopoliticalorganization:drama	geopolitical organization drama
+concept:sportsteam:national_league_team	sports team national league team
+concept:room:kids	room kids
+concept:stadiumoreventvenue:ford_center	stadium or event venue ford center
+concept:bodypart:organ_systems	body part organ systems
+concept:nerve:peripheral_nerves	nerve peripheral nerves
+concept:personcanada:utah_utes	person canada utah ute s
+concept:stadiumoreventvenue:indianapolis_downtown	stadium or event venue indianapolis downtown
+concept:planet:treat	planet treat
+concept:plant:black_gum	plant black gum
+concept:geopoliticallocation:silicon_valley	geopolitical location silicon valley
+concept:geopoliticallocation:south_american	geopolitical location south american
+concept:plant:coniferous_trees	plant coniferous trees
+concept:transportation:train	transportation train
+concept:city:weed	city weed
+concept:city:madison	city madison
+concept:stateorprovince:wisconsin	state or province wisconsin
+concept:coach:rick_neuheisel	coach rick neu he is el
+concept:plant:jack_pine	plant jack pine
+concept:coach:art_briles	coach art b riles
+concept:plant:mountainash	plant mountain ash
+concept:artery:material	artery material
+concept:city:gonzaga	city gonzaga
+concept:braintissue:neurotransmitters	brain tissue neurotransmitters
+concept:visualizablescene:blacksburg	visual iz able scene blacksburg
+concept:city:mckinney	city mckinney
+concept:country:samoa	country samoa
+concept:magazine:self	magazine self
+concept:plant:basswood	plant bass wood
+concept:skiarea:north_east	ski area north east
+concept:city:harrisonburg	city harrisonburg
+concept:stadiumoreventvenue:amon_carter_stadium	stadium or event venue amon carter stadium
+concept:vein:mesoderm	vein mesoderm
+concept:geopoliticallocation:british_isles	geopolitical location british isles
+concept:year:n1836	year n 1836
+concept:city:okinawa	city okinawa
+concept:muscle:white_matter	muscle white matter
+concept:attraction:locations	attraction locations
+concept:website:ten	website ten
+concept:hotel:flag	hotel flag
+concept:city:san_leandro	city san leandro
+concept:plant:white_cedar	plant white cedar
+concept:plant:almond	plant almond
+concept:visualizablescene:thing	visual iz able scene thing
+concept:athlete:butch_davis	athlete butch davis
+concept:university:depauw	university de pau w
+concept:country:el_salvador	country el salvador
+concept:plant:native_grasses	plant native grasses
+concept:stateorprovince:decision	state or province decision
+concept:coach:michigan_state_spartans	coach michigan state spartans
+concept:stadiumoreventvenue:davis_stadium	stadium or event venue davis stadium
+concept:city:nebraska	city nebraska
+concept:planet:crisis	planet crisis
+concept:plant:palms	plant palms
+concept:city:mariposa	city mariposa
+concept:geopoliticallocation:kuwait	geopolitical location kuwait
+concept:city:florence	city florence
+concept:stadiumoreventvenue:faurot_field	stadium or event venue faur ot field
+concept:coach:john_calipari	coach john ca lipari
+concept:artery:subarachnoid_space	artery sub ara ch noid space
+concept:mountainrange:plants	mountain range plants
+concept:sportsteam:oilers	sports team oilers
+concept:date:n1976	date n 1976
+concept:stadiumoreventvenue:carrier_dome	stadium or event venue carrier dome
+concept:geopoliticallocation:sherman	geopolitical location sherman
+concept:landscapefeatures:study	landscape features study
+concept:website:beauty	website beauty
+concept:county:san_diego	county san diego
+concept:monument:photographer	monument photographer
+concept:museum:highlights	museum highlights
+concept:room:breakfast	room breakfast
+concept:stadiumoreventvenue:autzen_stadium	stadium or event venue aut zen stadium
+concept:city:smyrna	city smyrna
+concept:city:plano	city plano
+concept:bodypart:epidermis	body part epidermis
+concept:stadiumoreventvenue:malone_stadium	stadium or event venue malone stadium
+concept:landscapefeatures:point	landscape features point
+concept:nut:horse_chestnut	nut horse chestnut
+concept:braintissue:body_systems	brain tissue body systems
+concept:plant:white_birch	plant white birch
+concept:plant:oleanders	plant oleanders
+concept:bridge:ship	bridge ship
+concept:bodypart:thymus	body part thymus
+concept:televisionstation:washingtondc	television station washington dc
+concept:bodypart:brain_cells	body part brain cells
+concept:city:hampshire	city hampshire
+concept:city:gardena	city gardena
+concept:artery:arterioles	artery arterioles
+concept:geopoliticallocation:holder	geopolitical location holder
+concept:restaurant:menu	restaurant menu
+concept:bodypart:respiratory_tract	body part respiratory tract
+concept:plant:grape_vines	plant grape vines
+concept:zoo:outdoors	zoo outdoors
+concept:city:capitola	city capitol a
+concept:artery:sinusoids	artery sinus oid s
+concept:country:slovak_republic	country slovak republic
+concept:coach:tom_osborne	coach tom osborne
+concept:stateorprovince:al_anbar	state or province al anbar
+concept:coach:terry_hoeppner	coach terry ho epp ner
+concept:visualizablething:calgary	visual iz able thing calgary
+concept:bodypart:gut	body part gut
+concept:city:victorville	city victorville
+concept:attraction:mardi_gras	attraction mardi gras
+concept:plant:buttonwood	plant button wood
+concept:city:richland	city richland
+concept:geopoliticallocation:central_eastern_europe	geopolitical location central eastern europe
+concept:city:fort_walton_beach	city fort walton beach
+concept:city:idyllwild	city idyll wild
+concept:vein:visual_system	vein visual system
+concept:artery:matter	artery matter
+concept:plant:bamboos	plant bamboos
+concept:stateorprovince:miles	state or province miles
+concept:sportsteam:n2004_red_sox	sports team n 2004 red sox
+concept:country:zaire	country zaire
+concept:braintissue:intestine	brain tissue intestine
+concept:plant:fir_trees	plant fir trees
+concept:geopoliticallocation:mid	geopolitical location mid
+concept:visualizablescene:corner	visual iz able scene corner
+concept:stadiumoreventvenue:papa_john_s_cardinal_stadium	stadium or event venue papa john s cardinal stadium
+concept:island:allen	island allen
+concept:visualizablescene:harbor	visual iz able scene harbor
+concept:county:high_school	county high school
+concept:city:redmond	city redmond
+concept:plant:pepper	plant pepper
+concept:plant:banana_trees	plant banana trees
+concept:country:return_trip	country return trip
+concept:planet:size	planet size
+concept:transportation:two_cities	transportation two cities
+concept:plant:seed	plant seed
+concept:monument:nebraska_cornhuskers	monument nebraska cornhuskers
+concept:nerve:spinal_nerve_roots	nerve spinal nerve roots
+concept:landscapefeatures:coast	landscape features coast
+concept:braintissue:plexus	brain tissue plexus
+concept:sportsteam:d_backs	sports team d backs
+concept:stateorprovince:mazowieckie	state or province mazowiecki e
+concept:city:antioch	city antioch
+concept:city:individuals	city individuals
+concept:plant:rhododendron	plant rhododendron
+concept:muscle:villi	muscle villi
+concept:coach:jim_boeheim	coach jim boe heim
+concept:plant:cacti	plant cacti
+concept:city:muncie	city muncie
+concept:city:santa_barbara_de_nexe	city santa barbara de n exe
+concept:coach:ray_meyer	coach ray meyer
+concept:nut:pecan	nut pecan
+concept:stateorprovince:stories	state or province stories
+concept:sportsteam:wayne_state	sports team wayne state
+concept:crimeorcharge:fort_pierce	crime or charge fort pierce
+concept:publication:richmond	publication richmond
+concept:museum:cultural_center	museum cultural center
+concept:plant:casuarina	plant casuarina
+concept:city:woodland_hills	city woodland hills
+concept:stadiumoreventvenue:glass_bowl	stadium or event venue glass bowl
+concept:stadiumoreventvenue:michigan_stadium	stadium or event venue michigan stadium
+concept:stateorprovince:shops	state or province shops
+concept:coach:ralph_friedgen	coach ralph fried gen
+concept:plant:mango_trees	plant mango trees
+concept:plant:magnolia	plant magnolia
+concept:planet:regions	planet regions
+concept:city:columbus	city columbus
+concept:city:roanoke	city roanoke
+concept:coach:steve_kragthorpe	coach steve k rag thorpe
+concept:geopoliticallocation:sub_saharan_africa	geopolitical location sub saharan africa
+concept:emotion:peace	emotion peace
+concept:bodypart:extremities	body part extremities
+concept:plant:white_pines	plant white pines
+concept:university:illinois_state	university illinois state
+concept:city:hollister	city hollister
+concept:plant:walnut	plant walnut
+concept:coach:ben_howland	coach ben howland
+concept:plant:mimosa	plant mimosa
+concept:website:homes	website homes
+concept:building:photographs	building photographs
+concept:newspaper:tennessee	newspaper tennessee
+concept:county:tracy	county tracy
+concept:stadiumoreventvenue:epicenter	stadium or event venue epicenter
+concept:stateorprovince:north_moravia	state or province north moravia
+concept:city:west_hollywood	city west hollywood
+concept:coach:todd_bowles	coach todd bowles
+concept:stadiumoreventvenue:nippert_stadium	stadium or event venue nipper t stadium
+concept:hotel:township	hotel township
+concept:city:panama_canal	city panama canal
+concept:city:hit	city hit
+concept:park:fan	park fan
+concept:plant:palmettos	plant palmettos
+concept:plant:dogwood	plant dogwood
+concept:stateorprovince:manitoba	state or province manitoba
+concept:governmentorganization:document	government organization document
+concept:politicianus:mike_krzyzewski	politician us mike krzyzewski
+concept:port:american_ports	port american ports
+concept:stateorprovince:baja_california	state or province baja california
+concept:plant:wild_plum	plant wild plum
+concept:city:la_mesa	city la mesa
+concept:geopoliticallocation:asian	geopolitical location asian
+concept:jobposition:adjunct_professor	job position adjunct professor
+concept:plant:maples	plant maples
+concept:stadiumoreventvenue:los_angeles_coliseum	stadium or event venue los angeles coliseum
+concept:school:johns_hopkins	school johns hopkins
+concept:sportsteamposition:back	sports team position back
+concept:city:manteca	city man tec a
+concept:sportsteam:ncaa_midwest_regionals	sports team ncaa midwest regional s
+concept:skiarea:brand	ski area brand
+concept:city:wrightwood	city wrightwood
+concept:trainstation:university_at_buffalo_stadium	train station university at buffalo stadium
+concept:bodypart:adrenal_gland	body part adrenal gland
+concept:transportation:options	transportation options
+concept:mountainrange:alps	mountain range alps
+concept:plant:tree_ferns	plant tree ferns
+concept:city:central	city central
+concept:coach:gene_keady	coach gene kea dy
+concept:plant:large_cottonwood	plant large cottonwood
+concept:stadiumoreventvenue:yale_bowl	stadium or event venue yale bowl
+concept:plant:white_oak	plant white oak
+concept:stadiumoreventvenue:reser_stadium	stadium or event venue re ser stadium
+concept:landscapefeatures:landscape	landscape features landscape
+concept:city:college	city college
+concept:aquarium:new_england	aquarium new england
+concept:plant:apple_trees	plant apple trees
+concept:coach:oklahoma_sooners	coach oklahoma sooners
+concept:celebrity:depaul_blue_demons	celebrity depaul blue demons
+concept:artery:tubes	artery tubes
+concept:bodypart:tube	body part tube
+concept:city:hawthorne	city hawthorne
+concept:person:willingham	person will ingham
+concept:geopoliticallocation:support	geopolitical location support
+concept:stateorprovince:tobago	state or province tobago
+concept:braintissue:cerebral_cortex	brain tissue cerebral cortex
+concept:sportsteam:night_the_red_sox	sports team night the red sox
+concept:coach:texas_tech_red_raiders	coach texas tech red raiders
+concept:coach:tom_izzo	coach tom izz o
+concept:plant:eucalyptus	plant eucalyptus
+concept:city:ramona	city ramona
+concept:city:xavier	city xavier
+concept:bacteria:endothelial_cells	bacteria endo the li al cells
+concept:city:redwood_city	city redwood city
+concept:coach:dantonio	coach d antonio
+concept:country:the_united_states	country the united states
+concept:stadiumoreventvenue:dowdy_ficklen_stadium	stadium or event venue dowdy fickle n stadium
+concept:plant:alders	plant alders
+concept:coach:virginia_tech	coach virginia tech
+concept:stateorprovince:new_york_state	state or province new york state
+concept:plant:walnuts	plant walnuts
+concept:blog:repository	blog repository
+concept:newspaper:alabama	newspaper alabama
+concept:country:trinidad_and_tobago	country trinidad and tobago
+concept:politicsblog:perspective	politics blog perspective
+concept:city:redding	city redding
+concept:sportsteam:time_the_yankees	sports team time the yankees
+concept:nerve:nerve_root	nerve nerve root
+concept:plant:pine_forest	plant pine forest
+concept:coach:richt	coach rich t
+concept:plant:cottonwoods	plant cottonwoods
+concept:trainstation:stronghold	train station stronghold
+concept:braintissue:pineal_gland	brain tissue pineal gland
+concept:company:symbol	company symbol
+concept:plant:sweet_gum	plant sweet gum
+concept:sportsgame:consecutive_years	sports game consecutive years
+concept:plant:juniper_trees	plant juniper trees
+concept:plant:honeysuckle	plant honeysuckle
+concept:plant:beech_trees	plant beech trees
+concept:plant:cactus	plant cactus
+concept:stateorprovince:slaskie	state or province s lask ie
+concept:sportsequipment:area	sports equipment area
+concept:stadiumoreventvenue:ryan_field	stadium or event venue ryan field
+concept:beach:vermont	beach vermont
+concept:city:palo_alto	city palo alto
+concept:plant:black_oak	plant black oak
+concept:plant:bay	plant bay
+concept:planet:core	planet core
+concept:stadiumoreventvenue:kibbie_dome	stadium or event venue ki b bie dome
+concept:coach:dino_gaudio	coach dino g audio
+concept:shoppingmall:rialto	shopping mall rialto
+concept:country:father	country father
+concept:plant:red_maples	plant red maples
+concept:person:nate_mclouth	person nate mc louth
+concept:city:lakeport	city lake port
+concept:mountain:big_bear_lake	mountain big bear lake
+concept:bodypart:emotions	body part emotions
+concept:coach:matt_doherty	coach matt doherty
+concept:musicfestival:virginia_cavaliers	music festival virginia cavaliers
+concept:sportsteamposition:guard	sports team position guard
+concept:building:stop	building stop
+concept:plant:green_pines	plant green pines
+concept:museum:marvel	museum marvel
+concept:university:pepperdine	university pepperdine
+concept:coach:everett_withers	coach everett withers
+concept:country:western_africa	country western africa
+concept:sportsteam:austin_peay_state_governors	sports team austin peay state governors
+concept:stateorprovince:skierniewice	state or province ski ernie w ice
+concept:plant:cherry	plant cherry
+concept:stateorprovince:colorada	state or province colorada
+concept:city:fit	city fit
+concept:hotel:job	hotel job
+concept:coach:tomlin	coach tomlin
+concept:city:memphis	city memphis
+concept:plant:black_pine	plant black pine
+concept:transportation:tomorrow	transportation tomorrow
+concept:sportsteam:kentucky_wildcats_basketball	sports team kentucky wildcats basketball
+concept:plant:fern	plant fern
+concept:sportsteam:bob_knight	sports team bob knight
+concept:stateorprovince:act	state or province act
+concept:braintissue:hindbrain	brain tissue hindbrain
+concept:plant:date_palms	plant date palms
+concept:trainstation:george_mason	train station george mason
+concept:island:polynesia	island polynesia
+concept:plant:heather	plant heather
+concept:stadiumoreventvenue:fouts_field	stadium or event venue f out s field
+concept:stadiumoreventvenue:neyland_stadium	stadium or event venue neyland stadium
+concept:bone:tumor	bone tumor
+concept:politician:adrian_fenty	politician adrian fenty
+concept:city:clearlake	city clear lake
+concept:plant:yellow_birch	plant yellow birch
+concept:landscapefeatures:farmland	landscape features farmland
+concept:artery:blood_supply	artery blood supply
+concept:food:rose	food rose
+concept:trail:candidate	trail candidate
+concept:geopoliticallocation:el_paso	geopolitical location el paso
+concept:plant:myrtles	plant myrtles
+concept:room:tops	room tops
+concept:country:southern_africa	country southern africa
+concept:plant:yellowwood	plant yellow wood
+concept:continent:antarctica	continent antarctica
+concept:museum:requirements	museum requirements
+concept:visualizablescene:major_city	visual iz able scene major city
+concept:artery:patients	artery patients
+concept:county:music_college	county music college
+concept:city:murrieta	city murr iet a
+concept:plant:red_maple	plant red maple
+concept:coach:thad_matta	coach t had matta
+concept:coach:bill_lynch	coach bill lynch
+concept:coach:mark_dantonio	coach mark d antonio
+concept:bodypart:excretory_system	body part excretory system
+concept:color:colors	color colors
+concept:plant:balsam	plant balsam
+concept:coach:mike_price	coach mike price
+concept:politicsblog:radio_station	politics blog radio station
+concept:monument:dusk	monument dusk
+concept:stadiumoreventvenue:alumni_stadium	stadium or event venue alumni stadium
+concept:stadiumoreventvenue:bank_of_america_pavilion	stadium or event venue bank of america pavilion
+concept:stadiumoreventvenue:beaver_stadium	stadium or event venue beaver stadium
+concept:plant:mature_pines	plant mature pines
+concept:plant:crab_apple	plant crab apple
+concept:river:potomac	river potomac
+concept:year:n1862	year n 1862
+concept:plant:banana_palms	plant banana palms
+concept:nerve:dural_sac	nerve dural sac
+concept:hotel:today	hotel today
+concept:highway:talk	highway talk
+concept:plant:crepe_myrtles	plant crepe myrtles
+concept:country:prussia	country prussia
+concept:geopoliticalorganization:north_vietnam	geopolitical organization north vietnam
+concept:bodypart:muscle_fibers	body part muscle fibers
+concept:city:forestville	city forest ville
+concept:plant:cork_oaks	plant cork oaks
+concept:artery:carotid_artery	artery carotid artery
+concept:plant:sagebrush	plant sagebrush
+concept:braintissue:forebrain	brain tissue forebrain
+concept:museum:wonders	museum wonders
+concept:coach:gene_chizik	coach gene chi zi k
+concept:landscapefeatures:variety	landscape features variety
+concept:bodypart:vital_organs	body part vital organs
+concept:coach:stanford_cardinal	coach stanford cardinal
+concept:stateorprovince:ua	state or province u a
+concept:bone:bone_structure	bone bone structure
+concept:stadiumoreventvenue:wachovia_center	stadium or event venue wachovia center
+concept:plant:apricot	plant apricot
+concept:geopoliticallocation:midwestern	geopolitical location midwestern
+concept:city:santa_paula	city santa paula
+concept:stateorprovince:jihocesky_kraj	state or province ji hoc e sky kraj
+concept:geopoliticallocation:list	geopolitical location list
+concept:city:samoa	city samoa
+concept:plant:cypress	plant cypress
+concept:city:irving	city irving
+concept:bacteria:symptoms	bacteria symptoms
+concept:stadiumoreventvenue:dix_stadium	stadium or event venue dix stadium
+concept:island:aviation	island aviation
+concept:nerve:somatic_nervous_system	nerve somatic nervous system
+concept:company:first_choice_airways	company first choice airways
+concept:city:los_angeles_memorial_coliseum	city los angeles memorial coliseum
+concept:writer:george_mason	writer george mason
+concept:bodypart:hands	body part hands
+concept:artery:esophagus	artery esophagus
+concept:transportation:n4_4_0	transportation n 4 4 0
+concept:city:west_palm_beach	city west palm beach
+concept:stadiumoreventvenue:cruzan_amphitheatre	stadium or event venue cruz an amphitheatre
+concept:planet:problem	planet problem
+concept:braintissue:three_membranes	brain tissue three membranes
+concept:emotion:rootedness	emotion rooted ness
+concept:plant:willow_trees	plant willow trees
+concept:bodypart:uterus	body part uterus
+concept:farm:farms	farm farms
+concept:hobby:playground	hobby playground
+concept:coach:jim_harbaugh	coach jim harbaugh
+concept:emotion:fertility	emotion fertility
+concept:retailstore:clothing_store	retail store clothing store
+concept:monarch:india	monarch india
+concept:stadiumoreventvenue:infocision_stadium	stadium or event venue in foci sion stadium
+concept:mountainrange:rate	mountain range rate
+concept:stadiumoreventvenue:war_memorial_stadium	stadium or event venue war memorial stadium
+concept:personeurope:james_wright	person europe james wright
+concept:bodypart:bladder	body part bladder
+concept:plant:banyan	plant banyan
+concept:plant:yew	plant yew
+concept:perceptionaction:davenport	perception action davenport
+concept:attraction:victoria001	attraction victoria 001
+concept:nerve:musculoskeletal_system	nerve mus cul o skeletal system
+concept:planet:order	planet order
+concept:city:ukiah	city ukiah
+concept:braintissue:salivary_glands	brain tissue salivary glands
+concept:celebrity:don_james	celebrity don james
+concept:politicalparty:confederate_states	political party confederate states
+concept:country:bonaire	country bonaire
+concept:coach:ben_schwartzwalder	coach ben schwartz w alder
+concept:plant:pear_cactus	plant pear cactus
+concept:plant:statue	plant statue
+concept:visualizablescene:hollywood	visual iz able scene hollywood
+concept:retailstore:homeland	retail store homeland
+concept:personaustralia:jim_calhoun	person australia jim calhoun
+concept:skiarea:premier	ski area premier
+concept:plant:ginkgo	plant ginkgo
+concept:artery:antigens	artery antigens
+concept:stateorprovince:international	state or province international
+concept:geopoliticallocation:mainland	geopolitical location mainland
+concept:bodypart:endothelium	body part endothelium
+concept:planet:fiction	planet fiction
+concept:stadiumoreventvenue:arizona_stadium	stadium or event venue arizona stadium
+concept:university:pennsylvania_state	university pennsylvania state
+concept:braintissue:motor_system	brain tissue motor system
+concept:city:south_bend	city south bend
+concept:plant:holm_oak	plant holm oak
+concept:stateorprovince:qld	state or province qld
+concept:city:cayucos	city cay u cos
+concept:stateorprovince:wielkopolskie	state or province wielkopolski e
+concept:bodypart:microcirculation	body part micro circulation
+concept:sportsequipment:rim	sports equipment rim
+concept:plant:sequoia	plant sequoia
+concept:room:exposure	room exposure
+concept:landscapefeatures:neighbors	landscape features neighbors
+concept:geopoliticallocation:asia_pacific	geopolitical location asia pacific
+concept:plant:wisteria	plant wisteria
+concept:university:emory	university emory
+concept:stateorprovince:state_capital	state or province state capital
+concept:artery:reproductive	artery reproductive
+concept:stateorprovince:southern_oregon	state or province southern oregon
+concept:city:oakhurst	city oak hurst
+concept:stadiumoreventvenue:scheumann_stadium	stadium or event venue sche u mann stadium
+concept:bodypart:tonsils	body part tonsils
+concept:shoppingmall:activities	shopping mall activities
+concept:sportsequipment:stand	sports equipment stand
+concept:website:gateway	website gateway
+concept:bodypart:replication	body part replication
+concept:country:pacific_islands	country pacific islands
+concept:university:bowling_green_state	university bowling green state
+concept:hospital:_	hospital
+concept:coach:grobe	coach gro be
+concept:stadiumoreventvenue:fiu_stadium	stadium or event venue fiu stadium
+concept:coach:larry_coker	coach larry coker
+concept:placeofworship:boy	place of worship boy
+concept:stateorprovince:new_england_state	state or province new england state
+concept:sportsgame:more_months	sports game more months
+concept:braintissue:hypothalamus	brain tissue hypothalamus
+concept:plant:buckeye	plant buckeye
+concept:bodypart:digestive_organs	body part digestive organs
+concept:plant:evergreen_trees	plant evergreen trees
+concept:stadiumoreventvenue:izod_center	stadium or event venue izod center
+concept:plant:black_spruce	plant black spruce
+concept:year:n1776	year n 1776
+concept:airport:memorial_field	airport memorial field
+concept:plant:azaleas	plant azaleas
+concept:bodypart:dura	body part dura
+concept:braintissue:lower_brain	brain tissue lower brain
+concept:city:skokie	city skokie
+concept:bone:spleen	bone spleen
+concept:city:norcross	city nor cross
+concept:coach:boeheim	coach boe heim
+concept:crimeorcharge:treason	crime or charge treason
+concept:geopoliticallocation:northern_europe	geopolitical location northern europe
+concept:coach:tuberville	coach tuber ville
+concept:coach:mike_bellotti	coach mike bellot ti
+concept:coach:ted_roof	coach ted roof
+concept:personmexico:mike_anderson	person mexico mike anderson
+concept:nerve:nerve_fibers	nerve nerve fibers
+concept:port:port_angeles	port port angeles
+concept:placeofworship:boys	place of worship boys
+concept:city:advice	city advice
+concept:city:marina	city marina
+concept:city:carolina	city carolina
+concept:plant:hornbeam	plant horn beam
+concept:city:castro	city castro
+concept:nerve:limbic_system	nerve limb ic system
+concept:coach:mark_gottfried	coach mark gottfried
+concept:plant:pin_oak	plant pin oak
+concept:museum:close	museum close
+concept:plant:gingko	plant gingko
+concept:braintissue:root_ganglia	brain tissue root ganglia
+concept:personmexico:trent_johnson	person mexico trent johnson
+concept:plant:coconut_trees	plant coconut trees
+concept:professor:terry_holland	professor terry holland
+concept:stadiumoreventvenue:brown_stadium	stadium or event venue brown stadium
+concept:trainstation:commerce	train station commerce
+concept:year:n1861	year n 1861
+concept:braintissue:cerebellum	brain tissue cerebellum
+concept:sportsteam:year_the_red_sox	sports team year the red sox
+concept:landscapefeatures:scenery	landscape features scenery
+concept:island:pakistan	island pakistan
+concept:attraction:sounds	attraction sounds
+concept:stateorprovince:va	state or province va
+concept:braintissue:smell	brain tissue smell
+concept:landscapefeatures:favorite_place	landscape features favorite place
+concept:city:kokomo	city koko mo
+concept:personmexico:doc_sadler	person mexico doc sadler
+concept:website:plus	website plus
+concept:room:chain	room chain
+concept:stadiumoreventvenue:rice_eccles_stadium	stadium or event venue rice eccles stadium
+concept:muscle:muscle_tissue	muscle muscle tissue
+concept:braintissue:skeletal_muscle	brain tissue skeletal muscle
+concept:city:orland_park	city or land park
+concept:country:congo_brazzaville	country congo brazzaville
+concept:plant:wreaths	plant wreaths
+concept:company:edge	company edge
+concept:stateorprovince:contrast	state or province contrast
+concept:stadiumoreventvenue:scott_stadium	stadium or event venue scott stadium
+concept:hobby:work	hobby work
+concept:plant:wild_fig	plant wild fig
+concept:sport:possession	sport possession
+concept:stateorprovince:opolskie	state or province o polski e
+concept:stadiumoreventvenue:boone_pickens_stadium	stadium or event venue boone pickens stadium
+concept:zoo:issues	zoo issues
+concept:attraction:tours	attraction tours
+concept:nerve:blood_cell_production	nerve blood cell production
+concept:stateorprovince:newfoundland_and_labrador	state or province newfoundland and labrador
+concept:stadiumoreventvenue:mackay_stadium	stadium or event venue mackay stadium
+concept:geopoliticalorganization:theater	geopolitical organization theater
+concept:bodypart:large_blood_vessels	body part large blood vessels
+concept:stateorprovince:bauchi	state or province bauchi
+concept:visualizablescene:pacific_grove	visual iz able scene pacific grove
+concept:geopoliticalorganization:us_	geopolitical organization us
+concept:aquarium:pacific_rim	aquarium pacific rim
+concept:plant:honey_locust	plant honey locust
+concept:artery:mucous_membrane	artery mucous membrane
+concept:braintissue:hypothalamic_pituitary_adrenal_axis	brain tissue hypothalami c pituitary adrenal axis
+concept:plant:western_red_cedar	plant western red cedar
+concept:sportsgame:more_days	sports game more days
+concept:city:normal	city normal
+concept:island:argentina	island argentina
+concept:stadiumoreventvenue:ross_ade_stadium	stadium or event venue ross a de stadium
+concept:stadiumoreventvenue:jack_trice_stadium	stadium or event venue jack trice stadium
+concept:landscapefeatures:headquarters	landscape features headquarters
+concept:university:san_jose_state	university san jose state
+concept:website:african_american	website african american
+concept:stadiumoreventvenue:post_gazette_pavilion_at_star_lake	stadium or event venue post gazette pavilion at star lake
+concept:skiarea:case	ski area case
+concept:city:bishop	city bishop
+concept:city:hermosa_beach	city hermosa beach
+concept:island:quebec	island quebec
+concept:blog:globe	blog globe
+concept:plant:eastern_hemlock	plant eastern hemlock
+concept:coach:dean_smith	coach dean smith
+concept:plant:river_birch	plant river birch
+concept:visualizablescene:picture	visual iz able scene picture
+concept:sportsteam:time_the_phillies	sports team time the phillies
+concept:product:vote	product vote
+concept:plant:scrub_oak	plant scrub oak
+concept:website:pilot	website pilot
+concept:transportation:concerns	transportation concerns
+concept:coach:mike_montgomery	coach mike montgomery
+concept:braintissue:dorsal_root_ganglia	brain tissue dorsal root ganglia
+concept:braintissue:neurology	brain tissue neurology
+concept:artery:healthy_heart	artery healthy heart
+concept:braintissue:amygdala	brain tissue amy gda la
+concept:athlete:florida_a_m_rattlers	athlete florida a m rattlers
+concept:artery:cholesterol	artery cholesterol
+concept:planet:places	planet places
+concept:bodypart:mucosa	body part mucosa
+concept:river:klickitat	river klickitat
+concept:sportsequipment:apparel	sports equipment apparel
+concept:monument:d_c	monument d c
+concept:stadiumoreventvenue:ben_hill_griffin_stadium	stadium or event venue ben hill griffin stadium
+concept:island:guinea	island guinea
+concept:plant:olives	plant olives
+concept:stateorprovince:northeastern	state or province northeastern
+concept:building:libraries	building libraries
+concept:plant:acacia	plant acacia
+concept:plant:walnut_trees	plant walnut trees
+concept:personmexico:eddie_sutton	person mexico eddie sutton
+concept:country:emergency	country emergency
+concept:highway:square	highway square
+concept:city:windsor	city windsor
+concept:museum:paper	museum paper
+concept:plant:sumac	plant sumac
+concept:stateorprovince:lodzkie	state or province lod z ki e
+concept:plant:laurel	plant laurel
+concept:geopoliticalorganization:sovereign_nation	geopolitical organization sovereign nation
+concept:bodypart:testicles	body part testicles
+concept:plant:ironwood	plant iron wood
+concept:website:websites	website websites
+concept:sportsequipment:jerseys	sports equipment jerseys
+concept:lake:home_base	lake home base
+concept:emotion:devotion	emotion devotion
+concept:plant:linden	plant linden
+concept:sportsteam:beloved_phillies	sports team beloved phillies
+concept:coach:randy_edsall	coach randy eds all
+concept:organization:host	organization host
+concept:city:willows	city willows
+concept:stadiumoreventvenue:sun_devil_stadium	stadium or event venue sun devil stadium
+concept:nerve:rhombencephalon	nerve rhombencephalon
+concept:artery:pores	artery pores
+concept:lymphnode:lymphoma	lymph node lymphoma
+concept:coach:frank_haith	coach frank hai th
+concept:geopoliticallocation:southern_california	geopolitical location southern california
+concept:coach:greg_robinson	coach greg robinson
+concept:beach:hospitals	beach hospitals
+concept:sportsteam:beloved_red_sox	sports team beloved red sox
+concept:stateorprovince:server	state or province server
+concept:city:coffs_harbour	city coffs harbour
+concept:organization:indian	organization indian
+concept:county:borders	county borders
+concept:plant:tupelo	plant tupelo
+concept:skiarea:benchmark	ski area benchmark
+concept:bodypart:reproductive_organs	body part reproductive organs
+concept:blog:franklin_field	blog franklin field
+concept:stateorprovince:shore	state or province shore
+concept:plant:sassafras	plant sassafras
+concept:stadiumoreventvenue:memorial_field	stadium or event venue memorial field
+concept:country:kabul	country kabul
+concept:city:lynwood	city lynwood
+concept:country:land	country land
+concept:city:republic	city republic
+concept:stadiumoreventvenue:bill_snyder_family_stadium	stadium or event venue bill snyder family stadium
+concept:visualizablescene:structure	visual iz able scene structure
+concept:plant:boxwood	plant boxwood
+concept:sportsteam:bronx_bombers	sports team bronx bombers
+concept:artery:dorsal_aorta	artery dorsal aorta
+concept:beach:massachusetts	beach massachusetts
+concept:profession:spokane	profession spokane
+concept:artery:smoking	artery smoking
+concept:plant:rosebushes	plant rosebushes
+concept:farm:growers	farm growers
+concept:trainstation:sections	train station sections
+concept:aquarium:western_hemisphere	aquarium western hemisphere
+concept:artery:human_anatomy	artery human anatomy
+concept:stadiumoreventvenue:university_at_buffalo	stadium or event venue university at buffalo
+concept:personafrica:mike_davis	person africa mike davis
+concept:city:kirkwood	city kirkwood
+concept:city:carlsbad	city carlsbad
+concept:plant:maple_trees	plant maple trees
+concept:stateorprovince:education	state or province education
+concept:skiarea:campground	ski area campground
+concept:language:kreyol	language kreyol
+concept:island:slovenia	island slovenia
+concept:nerve:nerve_tissue	nerve nerve tissue
+concept:sportsteamposition:point_guard	sports team position point guard
+concept:county:heartland	county heartland
+concept:mountainrange:label	mountain range label
+concept:museum:factory	museum factory
+concept:stateorprovince:child	state or province child
+concept:plant:coconut_palm	plant coconut palm
+concept:plant:white_ash	plant white ash
+concept:city:simi_valley	city simi valley
+concept:coach:bobby_dodd	coach bobby dodd
+concept:plant:balsam_fir	plant balsam fir
+concept:stateorprovince:politics	state or province politics
+concept:plant:jacaranda	plant jac aranda
+concept:attraction:online	attraction online
+concept:geopoliticallocation:vatican	geopolitical location vatican
+concept:retailstore:giant	retail store giant
+concept:braintissue:gallbladder	brain tissue gallbladder
+concept:stadiumoreventvenue:kinnick_stadium	stadium or event venue kin nick stadium
+concept:coach:mike_shula	coach mike s hula
+concept:city:solvang	city sol van g
+concept:website:orange	website orange
+concept:visualizablescene:visitors	visual iz able scene visitors
+concept:stadiumoreventvenue:bryant_denny	stadium or event venue bryant denny
+concept:stateorprovince:bielsko	state or province bielsko
+concept:city:sunset	city sunset
+concept:transportation:series	transportation series
+concept:city:norco	city nor co
+concept:city:cee	city cee
+concept:coach:steve_addazio	coach steve add a zio
+concept:nut:butternut	nut butternut
+concept:geopoliticallocation:shopping	geopolitical location shopping
+concept:stateorprovince:ns	state or province ns
+concept:stateorprovince:munich	state or province munich
+concept:city:patterson	city patterson
+concept:governmentorganization:circuit	government organization circuit
+concept:stateorprovince:store	state or province store
+concept:artery:neck_artery	artery neck artery
+concept:attraction:louisiana	attraction louisiana
+concept:color:colours	color colours
+concept:hotel:standard	hotel standard
+concept:stateorprovince:volunteer	state or province volunteer
+concept:nerve:inhalation	nerve inhalation
+concept:stadiumoreventvenue:at_t_center	stadium or event venue at t center
+concept:artery:blockage	artery blockage
+concept:celebrity:seton_hall_pirates	celebrity seton hall pirates
+concept:company:expedia	company ex pedia
+concept:transportation:control	transportation control
+concept:room:stay	room stay
+concept:city:tarzana	city tarzan a
+concept:geopoliticallocation:union	geopolitical location union
+concept:geopoliticallocation:bohemia	geopolitical location bohemia
+concept:plant:papaya	plant papaya
+concept:county:national_taiwan_university	county national taiwan university
+concept:city:norfolk_island	city norfolk island
+concept:room:air	room air
+concept:county:brawley	county brawl ey
+concept:sportsequipment:backboard	sports equipment backboard
+concept:braintissue:entire_brain	brain tissue entire brain
+concept:jobposition:king	job position king
+concept:coach:david_cutcliffe	coach david cut cliffe
+concept:sportsteamposition:bryan	sports team position bryan
+concept:geopoliticallocation:directories	geopolitical location directories
+concept:hospital:pick	hospital pick
+concept:hotel:forms	hotel forms
+concept:stadiumoreventvenue:floyd_casey_stadium	stadium or event venue floyd casey stadium
+concept:city:calexico	city cale xico
+concept:bodypart:nervous_tissue	body part nervous tissue
+concept:hospital:stanford_stadium	hospital stanford stadium
+concept:artery:main_artery	artery main artery
+concept:lymphnode:lymph_system	lymph node lymph system
+concept:sportsteam:ny_yankees	sports team ny yankees
+concept:planet:southern_hemisphere	planet southern hemisphere
+concept:country:year_china	country year china
+concept:museum:art_gallery	museum art gallery
+concept:transportation:gp_7	transportation gp 7
+concept:nerve:medulla_oblongata	nerve medulla oblongata
+concept:street:center_stage	street center stage
+concept:nerve:human_physiology	nerve human physiology
+concept:braintissue:adrenal_medulla	brain tissue adrenal medulla
+concept:bird:northwestern	bird northwestern
+concept:city:hong_kong_island	city hong kong island
+concept:celebrity:providence_friars	celebrity providence friars
+concept:geopoliticallocation:pacific	geopolitical location pacific
+concept:museum:research	museum research
+concept:artery:cranium	artery cranium
+concept:sportsteam:a_s	sports team a s
+concept:politicsblog:shows	politics blog shows
+concept:stateorprovince:mb	state or province mb
+concept:island:depth	island depth
+concept:bodypart:musculature	body part musculature
+concept:website:truth	website truth
+concept:artery:cell	artery cell
+concept:officebuildingroom:courts	office building room courts
+concept:bone:backbone	bone backbone
+concept:bodypart:human_nervous_system	body part human nervous system
+concept:river:nine	river nine
+concept:retailstore:guides	retail store guides
+concept:city:lake_arrowhead	city lake arrowhead
+concept:sportsteamposition:forward	sports team position forward
+concept:river:charles_river	river charles river
+concept:street:charter_school	street charter school
+concept:stateorprovince:yukon	state or province yukon
+concept:coach:sidney_lowe	coach sidney lowe
+concept:artery:arch	artery arch

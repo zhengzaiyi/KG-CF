@@ -1,0 +1,10 @@
+{
+    "description": "Template used by CRT-Bert.",
+    "prompt_input": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\n{instruction}\n\n### Input:\n{input}\n\n### Response:\n",
+    "prompt_no_input": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\n{instruction}\n\n### Response:\n",
+    "HEAD_PROMPT": "The subject of the target inference statement is {h_text}. [SEP]",
+    "TAIL_PROMPT": "The object of the target inference statement is {t_text}. [SEP]",
+    "PATH_PROMPT": "To prove the existence of relation {r_text}, we use the reasoning path: {p_text}. [SEP]",
+    "response_split": "### Response:",
+    "LLM_PROMPT": "I want to prove that there is a {r_q} relationship between {e_h} and {e_t}. Please select those unreasonable paths from the following possible proof paths: {paths.}\n Only output the path numbers and strictly follow the output format (DO NOT include any other characters!!): [ID1], [ID2], ... [IDn].\nExample: 1, 10, 5"
+}
